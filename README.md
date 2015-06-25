@@ -14,11 +14,10 @@ Ainda não temos. :disappointed:
     * [ ] traduzir
     * [ ] revisar
     * [ ] publicar
-  * Referências:
-    * [código-fonte](semanario-256.md)
-    * no [WeeklyOSM]:
-      * [inglês](http://www.weeklyosm.eu/archives/4205)
-      * [português](http://www.weeklyosm.eu/pt/archives/4205)
+  * [código-fonte](semanario-256.md)
+  * no site do [WeeklyOSM]:
+    * [em inglês](http://www.weeklyosm.eu/archives/4205)
+    * [em português](http://www.weeklyosm.eu/pt/archives/4205)
 
 # Fluxo de trabalho
 
