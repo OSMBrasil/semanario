@@ -30,15 +30,15 @@ O site do [WeeklyOSM] é em Wordpress ao qual os mantenedores deste semanário t
 
 ## Tradução
 
-A partir do código markdown da edição, os contribuidores fazem a tradução ao português e enviam via *pull request*.
+A partir do código markdown da edição, os contribuidores fazem a tradução ao português e enviam via [pull request].
 
 ## Revisão
 
-O processo de revisão é feito via pull request, que dá a oportunidade para uma segunda pessoa revisar o trabalho de tradução.
+O processo de revisão é feito via [pull request], que dá a oportunidade para uma segunda pessoa revisar o trabalho de tradução.
 
 ## Publicação
 
-Ao receber um pull request, o mantenedor verifica se todo o texto está completo e posta no site do WeeklyOSM.
+Ao receber um [pull request], o mantenedor verifica se todo o texto está completo e posta no site do [WeeklyOSM].
 
 # Ferramentas
 
@@ -46,3 +46,4 @@ Ao receber um pull request, o mantenedor verifica se todo o texto está completo
 
 
 [WeeklyOSM]: weeklyosm.eu
+[pull request]: https://help.github.com/articles/using-pull-requests
