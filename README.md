@@ -39,3 +39,10 @@ O processo de revisão é feito via pull request, que dá a oportunidade para um
 ## Publicação
 
 Ao receber um pull request, o mantenedor verifica se todo o texto está completo e posta no site do WeeklyOSM.
+
+# Ferramentas
+
+* [gdocs2md](https://github.com/mangini/gdocs2md): Para conversão de texto formatado ao Markdown
+
+
+[WeeklyOSM]: weeklyosm.eu
