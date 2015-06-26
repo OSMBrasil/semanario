@@ -8,25 +8,25 @@
 
 * Have you already donated? For over a week, the fundraising campaign of the OpenStreetMap Foundation for [new server hardware](http://donate.openstreetmap.org/server2015/) running. At present, only four-fifths of the required sum of £56,000 (about €78,100 or $89.000 US) has been achieved. The largest single donations so far have come from Mapbox and Mapzen, who have both donated $20,000 each (about £12,900 or €17,800). Every little bit helps.
 
-## Mapping
+## Mapeamento
 
-* Joost Schouppe reports about [power editing](http://www.openstreetmap.org/user/joost%20schouppe/diary/35194) with Level0 editor and Overpass turbo.
+* Joost Schouppe fez um relato sobre o [poder de edição](http://www.openstreetmap.org/user/joost%20schouppe/diary/35194) que é proporcionado pelo uso do editor Level0 e do Overpass turbo.
 
-* Frederik Ramm [launched](https://lists.openstreetmap.org/pipermail/talk/2015-June/073264.html) an escalating discussion on the pros and cons of armchair mapping, particularly in connection with HOT / Missing Maps.
+* Frederik Ramm [levantou](https://lists.openstreetmap.org/pipermail/talk/2015-June/073264.html) uma dicussão frutuosa sobre os prós e os contras do mepeamento em poltrona, particularmente quando se trata de colaborar com HOT ou com o Missing Maps.
 
-* Richard Welty [suggests](https://lists.openstreetmap.org/pipermail/talk/2015-June/073253.html) the tag README=* should be used to display a warning if an object carries this tag. README=* should contain a warning if the aerial photos are outdated locally (eg new buildings, demolished buildings).
+* Richard Welty [sugere](https://lists.openstreetmap.org/pipermail/talk/2015-June/073253.html) que a etiqueta `README=*`, caso exista no objeto, seja usada para dar uma orientação a futuros mapeadores daquele objeto. Atualmente, `README=*` deve conter um aviso quando as fotos aéreas do local estão desatualizadas (por exemplo, com novas edificações ou com edificações demolidas).
 
-## Community
+## Comunidade
 
-* Frederik Ramm [asks](https://lists.openstreetmap.org/pipermail/talk/2015-June/073251.html) who else has received "research project" mail about a "VGI in land administration" project.
+* Frederik Ramm [quer saber](https://lists.openstreetmap.org/pipermail/talk/2015-June/073251.html) quem mais recebeu o e-mail "projeto de pesquisa", em inglês, a respeito do projeto "_VGI in land administration_".
 
-* Pascal Neis' side of [changeset discussions](http://resultmaps.neis-one.org/osm-discussions#2/33.0/-33.8) can now filter by country ([see his tweet](https://twitter.com/pascal_n/status/610182326824341504)).
+* A listagem de [discussões em conjuntos de alterações](http://resultmaps.neis-one.org/osm-discussions#2/33.0/-33.8), criada por Pascal Neis, agora pode ser filtrada por país; para isso, basta clicar na  bandeira do país ([via Twitter](https://twitter.com/pascal_n/status/610182326824341504)).
 
-## Imports
+## Importações
 
-* According to Pavel Kwiecien, the import of [Czech land use information](https://lists.openstreetmap.org/pipermail/talk-cz/2015-June/011971.html) has been completed. ([see his OSM diary](https://www.openstreetmap.org/user/xkomczax/diary/35230))
+* De acordo com Pavel Kwiecien, a importação das [informações de uso da terra da Tchecoslováquia](https://lists.openstreetmap.org/pipermail/talk-cz/2015-June/011971.html) está completa. ([mais informações em um diário OSM](https://www.openstreetmap.org/user/xkomczax/diary/35230))
 
-* Robert Buchholz [asks](https://lists.openstreetmap.org/pipermail/imports/2015-June/003944.html) on the import list whether his use agreement for the OpenStreetMap community is sufficient. He would like to import 3D data (minimum building heights) of the city of Berlin.
+* Robert Buchholz [pergunta](https://lists.openstreetmap.org/pipermail/imports/2015-June/003944.html) na lista _imports_ se o contrato que ele redigiu é suficiente para a comunidade OpenStreetMap. Ele gostaria de importar dados 3D para a cidade de Berlim; a altura mínima das edificações.
 
 # Eventos
 
