@@ -68,12 +68,12 @@
 
 * ... que existe uma [*sandbox* / ambiente isolado](http://wiki.openstreetmap.org/wiki/Sandbox_for_editing) ([tradução automática](https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Fwiki.openstreetmap.org%2Fwiki%2FSandbox_for_editing)) em que você pode brincar e utilizar para testes com os dados do OSM? Lá você pode criar, modificar e excluir os dados que quiser, que não vai quebrar nada do OSM normal.
 
-## Other "geo" things
+## Outras coisas do mundo "geo"
 
-* Apple is driving around places for [Apple Maps](http://www.macrumors.com/2015/06/17/apple-maps-vehicles-england-new-orleans/) in the US, the UK and Ireland. A list of cities can be found on an [Apple web site](http://maps.apple.com/vehicles/).
+* O pessoal da Apple está dirigindo por aí! Ela quer seu [Apple Maps](http://www.macrumors.com/2015/06/17/apple-maps-vehicles-england-new-orleans/) contemplando Estados Unidos, Reino Unido e Irlanda. Uma lista de cidades pode ser consultada [no site da empresa](http://maps.apple.com/vehicles/).
 
-* AOL's subsidiary company Mapquest's tiles will be rendered in the future at Mapbox, instead of doing it themselves. In addition, [revisions to the products](http://techcrunch.com/2015/06/09/mapquest-confirms-mapbox-partnership/) are planned (via TechCrunch, also owned by AOL). Mapbox [welcomes](https://twitter.com/Mapbox/status/608290015924383744) Mapquest on Twitter.
+* A renderização dos tiles da Mapquest, que é uma empresa subsidiária da AOL, será terceirizada à Mapbox. Inclusive uma [reformulação dos produtos](http://techcrunch.com/2015/06/09/mapquest-confirms-mapbox-partnership/) está planejada (por intermédio da TechCrunch, que também pertence à AOL). A Mapbox deu [as boas-vindas](https://twitter.com/Mapbox/status/608290015924383744) à Mapquest através do Twitter.
 
-* Fred Johansen has created a [website](http://blog.wikimedia.de/2015/05/30/visualizing-history-with-automated-event-maps/) to visualise "history with automated event maps". It seems that the base map is one from a market companion.
+* Fred Johansen criou um [website](http://blog.wikimedia.de/2015/05/30/visualizing-history-with-automated-event-maps/) para visualizar "história por meio de uma mapa de eventos automatizado". Parece que a base de dados é fruto de uma parceria comercial.
 
-* At Geohipster.com, there's an interview with [Eric Gundersen (CEO Mapbox) and Alex Barth (head of Mapbox Data Team)](http://geohipster.com/2015/06/15/eric-gundersen-alex-barth-working-in-the-open-lets-us-meet-really-cool-people/).
+* No Geohipster.com há uma entrevista com [Eric Gundersen (CEO da Mapbox) e Alex Barth (cabeça do time de dados da Mapbox)](http://geohipster.com/2015/06/15/eric-gundersen-alex-barth-working-in-the-open-lets-us-meet-really-cool-people/).
