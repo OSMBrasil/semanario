@@ -2,11 +2,15 @@
 
 ![image alt text](http://blog.openstreetmap.de/wp-uploads//2015/06/donate-for-new-hardware-2015-640.png)
 
-*Um OpenStreetMap que está crescendo muito precisa de servidores maiores - veja a campanha 2015 de arrecadação para upgrade dos servidores do OpenStreetMap **[[1*]](http://www.weeklyosm.eu/wp-admin/post.php?post=4205&action=edit#256-spenden)
+*O OpenStreetMap cresce muito a cada dia e precisa de servidores maiores - veja a campanha 2015 de atualização dos servidores do OpenStreetMap*. [[1]](#link-para-secao-da-campanha)
 
-## Fundraising campaign for new server hardware
+## Campanha de arrecadação para novo hardware de servidores
 
-* Have you already donated? For over a week, the fundraising campaign of the OpenStreetMap Foundation for [new server hardware](http://donate.openstreetmap.org/server2015/) running. At present, only four-fifths of the required sum of £56,000 (about €78,100 or $89.000 US) has been achieved. The largest single donations so far have come from Mapbox and Mapzen, who have both donated $20,000 each (about £12,900 or €17,800). Every little bit helps.
+* Já faz uma semana que está acontecendo a [campanha de arrecadação para atualização de servidores do OpenStreetMap][campanha]. <del>Até o momento, apenas quatro quintos do total necessário de 56 mil libras foram alcançados.</del> **A meta já foi alcançada, mas ainda é possível [doar][campanha].** As maiores contribuições únicas até agora vieram da [Mapbox] e da [Mapzen], sendo que cada empresa doou 20 mil dólares, equivalente a 63,3 mil reais.
+
+[campanha]: http://donate.openstreetmap.org/server2015/
+[Mapbox]: www.mapbox.com
+[Mapzen]: www.mapzen.com
 
 ## Mapping
 
