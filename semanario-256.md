@@ -28,41 +28,41 @@
 
 * Robert Buchholz [asks](https://lists.openstreetmap.org/pipermail/imports/2015-June/003944.html) on the import list whether his use agreement for the OpenStreetMap community is sufficient. He would like to import 3D data (minimum building heights) of the city of Berlin.
 
-## Events
+# Eventos
 
-* User "maning" [reports](https://www.openstreetmap.org/user/maning/diary/35196) on a mapping party held in Iloilo City in May.
+* O usuário "maning" [relatou](https://www.openstreetmap.org/user/maning/diary/35196) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=https%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Fmaning%2Fdiary%2F35196)) sobre uma *mapping party* feita na cidade Iloilo em maio.
 
-* The [Call for Papers](http://wherecamp.de/cfp) for WhereCamp in November 2015 in Berlin runs until September 26.
+* A [chamada para trabalhos](http://wherecamp.de/cfp) do evento WhereCamp em novembro de 2015 em Berlim vai estar aberta até o dia 26 de setembro.
 
-* See all future events in the [OSM Event Calendar](https://wiki.openstreetmap.org/wiki/Current_events).
+* Veja todos os eventos futuros do OpenStreetMap no [Calendário de Eventos OSM](https://wiki.openstreetmap.org/wiki/Current_events) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=https%3A%2F%2Fwiki.openstreetmap.org%2Fwiki%2FCurrent_events)).
 
-## Humanitarian OSM
+## OSM Humanitário
 
-* Milo van der Linden has [set up a meetbot](https://lists.openstreetmap.org/pipermail/hot/2015-June/009486.html) in HOT-IRC that logs the chat at meetings.
+* Milo van der Linden [configurou um *meetbot*](https://lists.openstreetmap.org/pipermail/hot/2015-June/009486.html) no canal de IRC do <abbr title="Time Humanitário do OpenStreetMap (Humanitarian OpenStreetMap Team)">HOT</abbr>  que registra as conversas das reuniões.
 
-## Maps
+## Mapas
 
 * Richard Fairhurst's [bicycle router](http://cycle.travel/map) on [cycle.travel](http://cycle.travel/) is now also [available for the USA](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/014991.html). Due to the poor data situation rural roads with a highway=residential tag *and* a tiger:reviewed=no tag (i.e. not reviewed by a human after the TIGER import) [are avoided](http://cycle.travel/map/journey/13139) during routing.
 
 ## Software
 
-* Simon [announced](http://www.openstreetmap.org/user/SimonPoole/diary/35190) the first release candidate of Vespucci 0.9.6 (Android OSM editor). It can also [be purchased](http://www.openstreetmap.org/user/SimonPoole/diary/35210) via the beta program from Google Store.
+* Simon [anunciou](http://www.openstreetmap.org/user/SimonPoole/diary/35190) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=http%3A%2F%2Fwww.openstreetmap.org%2Fuser%2FSimonPoole%2Fdiary%2F35190&sandbox=1)) o primeiro candidato a lançamento do Vespucci 0.9.6 (editor OSM para Android). Ele também pode [ser comprado](http://www.openstreetmap.org/user/SimonPoole/diary/35210) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=http%3A%2F%2Fwww.openstreetmap.org%2Fuser%2FSimonPoole%2Fdiary%2F35210&sandbox=1)) pelo programa beta do Google Play.
 
-* In the last issue (#255) it was [suggested](http://www.weeklyosm.eu/archives/4134) that an Apple Watch at SotM-US in New York [was the first](https://twitter.com/OSM_Tech/status/607936023075680256) to run an OSM map.  However, [Maps.me was faster](http://blog.maps.me/2015/05/mapsme-version-for-apple-watch-how-to.html)!  (via [@ШТОСМ](https://twitter.com/shtosm/status/608906204803440640))
+* Na última edição (#255), foi sugerido que um Apple Watch no <abbr title="Estado do Mapa - Estados Unidos (State of the Map - United States)">SotM-US</abbr> em Nova Iorque [foi o primeiro](https://twitter.com/OSM_Tech/status/607936023075680256) a rodar um mapa OSM.  Entretanto, o [Maps.me foi mais rápido](http://blog.maps.me/2015/05/mapsme-version-for-apple-watch-how-to.html)! ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=http%3A%2F%2Fblog.maps.me%2F2015%2F05%2Fmapsme-version-for-apple-watch-how-to.html))   (via [@ШТОСМ](https://twitter.com/shtosm/status/608906204803440640))
 
 * QField (a QGIS-compatible GIS for Android) is now available as a [beta version](http://www.opengis.ch/2015/06/15/qfield-in-the-wild/) in the Google Play Store.
 
-* On GitHub, there is an [R interface for Leaflet,](http://rstudio.github.io/leaflet/) which allows an easy integration and use of maps with [Leaflet](http://leafletjs.com/) in the [programming language R](https://en.wikipedia.org/wiki/R_(programming_language)).
+* No GitHub, tem uma [interface R para o Leaflet](http://rstudio.github.io/leaflet/) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=http%3A%2F%2Frstudio.github.io%2Fleaflet%2F)), que permite uma integração e uso fácil de mapas com o [Leaflet](http://leafletjs.com/) na [linguagem de programação R](https://pt.wikipedia.org/wiki/R_%28linguagem_de_programa%C3%A7%C3%A3o%29).
 
-* Milo Yip has published a [lecture](http://de.slideshare.net/miloyip/how-to-write-the-fastest-json-parser-writer-in-the-world-20150328) on RapidJSON, a particularly fast JSON parser.(via [@kkaefer](https://twitter.com/kkaefer/status/610106126206636033))
+* Milo Yip publicou uma [palestra](http://pt.slideshare.net/miloyip/how-to-write-the-fastest-json-parser-writer-in-the-world-20150328) (somente em inglês) sobre RapidJSON, um leitor de arquivos JSON que é particularmente rápido.(via [@kkaefer](https://twitter.com/kkaefer/status/610106126206636033))
 
-* Mapnik's project website [has been updated](http://mapnik.org/).
+* O site do projeto Mapnik [foi atualizado](http://mapnik.org/).
 
-* tassia presents a draft GUI for [OpenAerialMap plugins for QGIS](https://www.openstreetmap.org/user/tassia/diary/35201).
+* tassia apresenta um rascunho de uma interface gráfica para [os plugins do OpenAerialMap para QGIS] (https://www.openstreetmap.org/user/tassia/diary/35201) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=en&tl=pt&u=https%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Ftassia%2Fdiary%2F35201&sandbox=1)).
 
-## Did you know…
+## Você sabia?
 
-* ... there's a [sandbox](http://wiki.openstreetmap.org/wiki/DE:Sandbox_for_editing) that you can use for testing and playing around with the raw data from OSM? Here you can can create and delete things and try something and do all you want, without breaking anything.
+* ... que existe uma [*sandbox* / ambiente isolado](http://wiki.openstreetmap.org/wiki/Sandbox_for_editing) ([tradução automática](https://translate.google.com/translate?sl=en&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Fwiki.openstreetmap.org%2Fwiki%2FSandbox_for_editing)) em que você pode brincar e utilizar para testes com os dados do OSM? Lá você pode criar, modificar e excluir os dados que quiser, que não vai quebrar nada do OSM normal.
 
 ## Other "geo" things
 
