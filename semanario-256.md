@@ -9,8 +9,8 @@
 * Já faz uma semana que está acontecendo a [campanha de arrecadação para atualização de servidores do OpenStreetMap][campanha]. <del>Até o momento, apenas quatro quintos do total necessário de 56 mil libras foram alcançados.</del> **A meta já foi alcançada, mas ainda é possível [doar][campanha].** As maiores contribuições únicas até agora vieram da [Mapbox] e da [Mapzen], sendo que cada empresa doou 20 mil dólares, equivalente a 63,3 mil reais.
 
 [campanha]: http://donate.openstreetmap.org/server2015/
-[Mapbox]: www.mapbox.com
-[Mapzen]: www.mapzen.com
+[mapbox]: http://www.mapbox.com
+[mapzen]: http://www.mapzen.com
 
 ## Mapeamento
 
