@@ -2,7 +2,7 @@
 
 ![image alt text](http://blog.openstreetmap.de/wp-uploads//2015/06/donate-for-new-hardware-2015-640.png)
 
-*O OpenStreetMap cresce muito a cada dia e precisa de servidores maiores - veja a campanha 2015 de atualização dos servidores do OpenStreetMap*. [[1]](#link-para-secao-da-campanha)
+*O OpenStreetMap cresce muito a cada dia e precisa de servidores maiores - veja a campanha 2015 de atualização dos servidores do OpenStreetMap*. [[1]](#campanha-de-arrecadação-para-novo-hardware-de-servidores)
 
 ## Campanha de arrecadação para novo hardware de servidores
 
