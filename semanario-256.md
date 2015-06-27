@@ -79,7 +79,7 @@
 
 * Na última edição (#255), foi sugerido que um Apple Watch no <abbr title="Estado do Mapa - Estados Unidos (State of the Map - United States)">SotM-US</abbr> em Nova Iorque [foi o primeiro][fix255a] a rodar um mapa OSM.  Entretanto, o [Maps.me foi mais rápido][fix255b]! ([tradução automática]([fix255c])) (via [@ШТОСМ][fix255d])
 
-* QField (a QGIS-compatible GIS for Android) is now available as a [beta version][qfield] in the Google Play Store.
+* QField é uma _app_ de GIS para Android, compatível com QGIS. Está disponível como [versão beta][qfield] na Google Play Store.
 
 * No GitHub, tem uma [interface R para o Leaflet][leaflet1] ([tradução automática][leaflet2]), que permite uma integração e uso fácil de mapas com o [Leaflet][leaflet3] na [linguagem de programação R][leaflet4].
 
