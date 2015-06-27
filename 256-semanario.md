@@ -1,6 +1,6 @@
 09/06 ‒ 15/06/2015
 
-![Banner da campanha 2015 de atualização de servidores do OpenStreetMap](imagem-256.png)
+![Banner da campanha 2015 de atualização de servidores do OpenStreetMap](256-banner.png)
 
 *O OpenStreetMap cresce muito a cada dia e precisa de servidores maiores - veja a campanha 2015 de atualização dos servidores do OpenStreetMap*. [[1]](#campanha-de-arrecadação-para-novo-hardware-de-servidores)
 
