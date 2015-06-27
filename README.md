@@ -36,6 +36,7 @@ Ao receber um [pull request], o mantenedor verifica se todo o texto está comple
 # Ferramentas
 
 * [gdocs2md](https://github.com/mangini/gdocs2md), para conversão de texto formatado ao Markdown
+* [StackEdit](https://stackedit.io), fazendo-se ciclos _Import from disk_ / edição / _Export to disk_ / `git commit`
 
 
 [WeeklyOSM]: weeklyosm.eu
