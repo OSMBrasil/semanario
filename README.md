@@ -35,8 +35,9 @@ Ao receber um [pull request], o mantenedor verifica se todo o texto está comple
 
 # Ferramentas
 
-* [gdocs2md](https://github.com/mangini/gdocs2md), para conversão de texto formatado ao Markdown
-* [StackEdit](https://stackedit.io), fazendo-se ciclos _Import from disk_ / edição / _Export to disk_ / `git commit`
+* [gdocs2md], para conversão de texto formatado ao Markdown
+* [StackEdit], fazendo-se ciclos _Import from disk_ / edição / _Export to disk_ / `git commit`
+* [paicemana], o script auxiliar que viabiliza semanalmente o fluxo de trabalho com kanban
 
 
 [WeeklyOSM]: weeklyosm.eu
@@ -46,6 +47,10 @@ Ao receber um [pull request], o mantenedor verifica se todo o texto está comple
 [irc]: https://scrollback.io/osm-brasil
 [wiki]: wiki.openstreetmap.org/wiki/WikiProject_Brazil
 [issues]: ../../issues
+
+[gdocs2md]: https://github.com/mangini/gdocs2md
+[StackEdit]: https://stackedit.io
+[paicemana]: https://github.com/OSMBrasil/paicemana
 
 [kanban]: https://pt.wikipedia.org/wiki/Kanban
 [kanban-ensaio]: https://cloud.githubusercontent.com/assets/957501/8384601/7270f08e-1c18-11e5-9f4e-67840d5873e6.png
