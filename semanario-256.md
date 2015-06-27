@@ -66,7 +66,7 @@
 
 ## Mapas
 
-* Richard Fairhurst's [bicycle router][cycle-travel-map] on [cycle.travel][cycle-travel] is now also [available for the USA][cycle-travel-USA]. Due to the poor data situation rural roads with a highway=residential tag *and* a tiger:reviewed=no tag (i.e. not reviewed by a human after the TIGER import) [are avoided][TIGER-import] during routing.
+* O [roteador para bicicletas][cycle-travel-map], de Richard Fairhurst, no  [cycle.travel][cycle-travel], foi [habilitado para os Estados Unidos][cycle-travel-USA]. Porém, os dados referentes a estradas rurais são precários e aquelas que estão etiquetadas  `highway=residential` **e** `tiger:reviewed=no` [não são consideradas][TIGER-import] para roteamento; elas não foram revisadas por um humano após a importação TIGER.
 
 [cycle-travel-map]: http://cycle.travel/map
 [cycle-travel]: http://cycle.travel/
