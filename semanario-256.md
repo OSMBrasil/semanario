@@ -1,6 +1,6 @@
-09.06.-15.06.2015
+09/06 ‒ 15/06/2015
 
-![image alt text](http://blog.openstreetmap.de/wp-uploads//2015/06/donate-for-new-hardware-2015-640.png)
+![Banner da campanha 2015 de atualização de servidores do OpenStreetMap](imagem-256.png)
 
 *O OpenStreetMap cresce muito a cada dia e precisa de servidores maiores - veja a campanha 2015 de atualização dos servidores do OpenStreetMap*. [[1]](#campanha-de-arrecadação-para-novo-hardware-de-servidores)
 
