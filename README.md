@@ -8,12 +8,14 @@ Para críticas, erros e sugestões, visite a [seção de issues][issues].
 
 Ainda não temos. :disappointed:
 
-**Em tradução:**
-- [Edição 256 (9 a 15 de junho de 2015)](../../issues/1)
+**Em processo de revisão:**
+- [Edição 256 (9 a 15 de junho de 2015)][edicao-pendente]
 
 # Fluxo de trabalho
 
-O trabalho em cada edição do [WeeklyOSM] será gerido por uma _issue_ etiquetada como [`task`](../../labels/task) e consistirá de quatro passos principais:
+O trabalho em cada edição do [WeeklyOSM] será gerido por _issues_. Atualmente está sendo [ensaiado][kanban-ensaio] e [avaliado](kanban-avaliacao) o uso de [kanban] via [waffle.io] como forma de se ter um gerenciamento aperfeiçoado e ágil, com rastreabilidade e delegação justa de esforços assíncronos.
+
+Em todo caso, resumidamente, nosso fluxo de trabalho consiste de quatro passos principais:
 
 ## 1) Transformação do Markdown
 
@@ -42,4 +44,12 @@ Ao receber um [pull request], o mantenedor verifica se todo o texto está comple
 [fórum]: http://forum.openstreetmap.org/viewforum.php?id=74
 [irc]: https://scrollback.io/osm-brasil
 [wiki]: wiki.openstreetmap.org/wiki/WikiProject_Brazil
-[issues]: https://github.com/OSMBrasil/semanario/issues
+[issues]: ../../issues
+
+[kanban]: https://pt.wikipedia.org/wiki/Kanban
+[kanban-ensaio]: https://cloud.githubusercontent.com/assets/957501/8384601/7270f08e-1c18-11e5-9f4e-67840d5873e6.png
+[kanban-avaliacao]: ../issues/32#issuecomment-115824681
+[waffle.io]: https://waffle.io/OSMBrasil/semanario
+
+[edicao-256]: 256-semanario.md
+[edicao-pendente]: 256-semanario.md
