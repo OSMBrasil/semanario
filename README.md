@@ -6,10 +6,7 @@ Para críticas, erros e sugestões, visite a [seção de issues][issues].
 
 # Últimas edições
 
-Ainda não temos. :disappointed:
-
-**Em processo de revisão:**
-- [Edição 256 (9 a 15 de junho de 2015)][edicao-pendente]
+- [Edição 256 (9 a 15 de junho de 2015)][edicao-256]
 
 # Fluxo de trabalho
 
