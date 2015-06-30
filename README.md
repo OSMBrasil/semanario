@@ -2,6 +2,8 @@
 
 Este é o repositório de trabalho para a tradução do Semanário do OpenStreetMap ao português. O semanário é produzido pelo projeto [WeeklyOSM] e traduzido pela comunidade brasileira do OpenStreetMap ([lista], [fórum], [irc], [wiki]).
 
+O texto original dos semanários e cada arquivo trabalhado neste repositório encontram-se sob licença [CC-BY-SA 3.0], salvo declaração específica em contrário.
+
 Para críticas, erros e sugestões, visite a [seção de issues][issues].
 
 # Últimas edições
@@ -44,6 +46,8 @@ Ao receber um [pull request], o mantenedor verifica se todo o texto está comple
 [irc]: https://scrollback.io/osm-brasil
 [wiki]: wiki.openstreetmap.org/wiki/WikiProject_Brazil
 [issues]: ../../issues
+
+[CC-BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR
 
 [gdocs2md]: https://github.com/mangini/gdocs2md
 [StackEdit]: https://stackedit.io
