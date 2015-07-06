@@ -6,45 +6,47 @@
 
 [![Mapping of Cambridge University under criticism](http://www.weeklyosm.eu/wp-content/uploads/2015/06/257_Cambridge.png)](http://www.weeklyosm.eu/wp-content/uploads/2015/06/257_Cambridge.png)
 
-Mapamento na Universidade de Cambridge University provocou controvérsia. [1]
+O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 ## Campanha de arrecadação para ampliação de servidores
 
 * [A meta foi alcançada.](http://donate.openstreetmap.org/server2015/) :)
 
-* As maiores doações únicas além dos patrocinadores premium foram: 500 euros (Matthias Eilers, [Kustenschmiede](https://kuestenschmiede.de/leistungen.html)), 500 dólares (Robert Cheetham), 250 euros (Klaus Tockloth, [Freizeitkarte](http://freizeitkarte-osm.de/)), 256 dólares (Ian Dees), 250 dólares (Nelson Minar), Pierre Boizot (200 francos suíços) e 200 euros de um doador anônimo. Muito obrigado a todos, todas as doações ajudaram muito.
+* As maiores doações únicas, sem considerar dos patrocinadores especiais foram: 500 euros (Matthias Eilers, [Kustenschmiede](https://kuestenschmiede.de/leistungen.html)), 500 dólares (Robert Cheetham), 250 euros (Klaus Tockloth, [Freizeitkarte](http://freizeitkarte-osm.de/)), 256 dólares (Ian Dees), 250 dólares (Nelson Minar), Pierre Boizot (200 francos suíços) e 200 euros de um doador anônimo. A comunidade agradece todas as doações.
 
 ## Mapeamento
 
-* O JOSM agora tem [integração com o Mapillary](https://twitter.com/neogeografen/status/611855946101428224) ([um tweet sobre isso](https://twitter.com/neogeografen/status/611855946101428224)).
+* O JOSM agora tem [integração com o Mapillary](https://twitter.com/neogeografen/status/611855946101428224) ([anúncio no twitter](https://twitter.com/neogeografen/status/611855946101428224)).
 
-* Martin Simon [perguntou](http://lists.openrailwaymap.org/archives/openrailwaymap/2015-June/000290.html) como deve ser mapeado um "dispositivo de expansão de trilhos" (um equipamento de trilhos que compensa pelas mudanças de tamanho dos trilhos devido a variações de temperatura).
+* Martin Simon [pergunta](http://lists.openrailwaymap.org/archives/openrailwaymap/2015-June/000290.html) como deve ser mapeado um "dispositivo de expansão de trilhos" (uma peça que compensa as mudanças de tamanho dos trilhos devido a variações de temperatura).
 
 * Um aplicativo do Mapillary para o Firefox OS [está sendo desenvolvido](https://github.com/mapillary/mapillary_firefox). ([veja o anúncio aqui](https://lists.openstreetmap.de/pipermail/meckpomm/2015-June/002330.html))
 
-* Johannes Birgir Jensson blogs [a plea for remote mapping](http://joi.betra.is/?p=1769) (via [@OpenCageData](https://twitter.com/OpenCageData/status/610728528133386240)).
+* Johannes Birgir Jensson fez [um chamado para o mapeamento remoto](http://joi.betra.is/?p=1769) (via [@OpenCageData](https://twitter.com/OpenCageData/status/610728528133386240)).
 
-* [Students report](http://www.sentamu.com/open-street-map-comenius-project-visit-to-germany/) on a mapping week in Germany during their stay in Saarburg for a [Comenius school project](https://wiki.openstreetmap.org/wiki/MychOSM).
+* [Estudantes reportaram](http://www.sentamu.com/open-street-map-comenius-project-visit-to-germany/) sobre uma semana de mapeamento na Alemanha durante a estadia em Saarburg para um [projeto escolar Comenius](https://wiki.openstreetmap.org/wiki/MychOSM).
 
-* While conducting a research, a user in Belgium [has changed](https://www.openstreetmap.org/user/escada/diary/35244) numerous maxspeed values for roads using multiple accounts without prior communication with the community. The changes resulted in maxspeed values which were far from reality. The Data Working Group has already taken action. In the comments, Jost Schouppe [alleged](https://www.openstreetmap.org/user/escada/diary/35244#comment31036) that a student from Ghent did it as part of his master's thesis.
 
-* User sbagroy986 [informs](https://www.openstreetmap.org/user/sbagroy986/diary/35257) the community on his progress so far on  Moderation Queue project as a part of this year's Google Summer of Code. He developed a "Report" button to for osm.org, used for User Diaries (spam, insults, ...) and changesets. It was also created a dashboard for the administrators and moderators, a management system for the Data Working Group.
 
-* No one is [faster](https://twitter.com/ubahnverleih/status/612729250613981184) than OSM, right? Especially regarding Edward Snowden Square in Dresden...
+* Ao realizar uma pesquisa, um usuário na Bélgica [alterou](https://www.openstreetmap.org/user/escada/diary/35244) diversos valores de velocidade máxima para vias usando múltiplas contas sem consultar a comunidade. As mudanças resultaram em valores que estavam distantes da realidade. O Data Working Group já entrou em ação. Nos comentários, Jost Schouppe [alegou](https://www.openstreetmap.org/user/escada/diary/35244#comment31036) que um estudante de Ghent fez as alterações como parte de sua tese de mestrado.
+
+* O usuário sbagroy986 [informou](https://www.openstreetmap.org/user/sbagroy986/diary/35257) a comunidade sobre o progresso até o momento de seu projeto de "fila de moderação" que faz parte do Google Summer of Code deste ano. Ele desenvolveu um botão de "Reporte" para o osm.org, usado em diários de usuários (spam, insultos, ...) e conjunto de alterações. Foi criado também um painel de controle para administradores e moderadores, que é um sistema de gerenciamento para o Data Working Group.
+
+* Ninguém é mais  [rápido](https://twitter.com/ubahnverleih/status/612729250613981184) que o OSM, não é? Especialmente sobre a praça Edward Snowden em Dresden...
 
 ## Importações
 
 * Na Noruega, está planejada uma [importação manual de estradas](https://lists.openstreetmap.org/pipermail/imports/2015-June/003957.html).
 
-* Na Eslováquia, [querem](https://lists.openstreetmap.org/pipermail/imports/2015-June/003963.html) uma importação de endereços usando o [KasporSKAdress](https://wiki.openstreetmap.org/wiki/KaporSKAddress).
+* Na Eslováquia [querem](https://lists.openstreetmap.org/pipermail/imports/2015-June/003963.html) uma importação de endereços usando o [KasporSKAdress](https://wiki.openstreetmap.org/wiki/KaporSKAddress).
 
 ## Fundação OpenStreetMap
 
-* O evento [State of the Map 2016](https://2016.stateofthemap.org/) [será realizado](https://blog.openstreetmap.org/2015/06/20/announcing-sotm-2016/) em Bruxelas, Bélgica.
+* O [State of the Map 2016](https://2016.stateofthemap.org/) [será realizado](https://blog.openstreetmap.org/2015/06/20/announcing-sotm-2016/) em Bruxelas, Bélgica.
 
 ## Eventos
 
-* Sam Matthews [talks](http://mapsam.com/posts/sotm2015/) about his views on OpenStreetMap using his experience in the US SOTM 2015.
+* Sam Matthews [fala](http://mapsam.com/posts/sotm2015/) sobre sua visão do OpenStreetMap usando sua experiência no US SOTM 2015.
 
 ## OSM Humanitário
 
@@ -54,57 +56,57 @@ Mapamento na Universidade de Cambridge University provocou controvérsia. [1]
 
 ## Maps
 
-* Incredible, [how fast OpenStreetMap grows](https://twitter.com/harry_wood/status/612993841508020224).
+* Incrível como o [OpenStreetMap cresce rapidamente](https://twitter.com/harry_wood/status/612993841508020224).
 
-* [1] Cambridge University is using OSM data for their detailed interactive [campus map](http://map.cam.ac.uk/). Some of the tags used to achieve their aims were subject to [discussion and criticism](https://lists.openstreetmap.org/pipermail/talk-gb/2015-May/017457.html) by other mappers.
+* [1] A Universidade de Cambridge está utilizando dados do OpenStreetMap para seu detalhado e interativo [mapa do campus](http://map.cam.ac.uk/). O uso de algumas das etiquetas [foi debatido e recebeu críticas](https://lists.openstreetmap.org/pipermail/talk-gb/2015-May/017457.html) de outros mapeadores.
 
 ## switch2OSM
 
-* search.ch [uses now](http://lists.openstreetmap.ch/pipermail/talk-ch/2015-June/003329.html) partly OSM data.
+* search.ch [agora usa](http://lists.openstreetmap.ch/pipermail/talk-ch/2015-June/003329.html) parcialmente dados do OSM.
 
-* The German Railways Company (Deutsche Bahn) uses an [OpenStreetMap map](http://www.vde8.de/---_site.index..ls_dir._function.set__lang_lang.en_likecms.html) to display traffic information about the railway project VDE8 (German Unity Transport Project No. 8).
+* A German Railways Company (Deutsche Bahn) usa um [mapa do OpenStreetMap](http://www.vde8.de/---_site.index..ls_dir._function.set__lang_lang.en_likecms.html) para mostrar informações de tráfego sobre o projeto ferroviário VDE8 (German Unity Transport Project No. 8).
 
 ## Dados Abertos
 
 * A _Environment Agency_ [anuncia](https://environmentagency.blog.gov.uk/2015/06/16/free-mapping-data-will-elevate-flood-risk-knowledge/) a liberação de seus dados LIDAR cobrindo 72% do território da Inglaterra, sob Open Government License.
 
-* [Open Data](https://twitter.com/OpenDataZurich/status/611164246785847296) está firme em Zurique, na Suiça. Declararam que têm por objetivo fornecer toda informação que seja relevante (estatísticas urbanas, dados municipais), pelos melhores meios possíveis.
+* [O uso de dados abertos](https://twitter.com/OpenDataZurich/status/611164246785847296) está bem estabelecido pela cidade de Zurique, na Suiça. Foi declarado que o objetivo é fornecer toda informação que seja relevante (estatísticas urbanas, dados municipais) usando os melhores meios possíveis.
 
 * O Escritório Federal de Metrologia e Topografia da Áustria [liberou](https://www.data.gv.at/katalog/dataset/6d731e6e-7dcf-4bde-8061-d0e195f62f6c) dados referentes aos limites administrativos, mas o fez sob licença CC-BY-SA imcompatível com OSM. Terá sido de propósito?! (via [talk-at](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007738.html))
 
 ## Software
 
-* OsmAnd 2.1 [is released](http://osmand.net/blog?id=osmand-2-1-released).
+* O OsmAnd 2.1 [foi lançado](http://osmand.net/blog?id=osmand-2-1-released).
 
-* With help from [Geolicious](http://www.digital-geography.com/how-far-can-you-travel-answers-in-qgis-with-osm-route/#.VYe2kEbGtS2) OSM routing has been made available as a new [OpenRouteService](http://openrouteservice.org/) plugin within [Quantum GIS](http://www.qgis.org/).
+* Com a ajuda do  [Geolicious](http://www.digital-geography.com/how-far-can-you-travel-answers-in-qgis-with-osm-route/#.VYe2kEbGtS2) está disponível um novo plugin do  [OpenRouteService](http://openrouteservice.org/) para o [Quantum GIS](http://www.qgis.org/).
 
-* Simon Poole [announced](https://www.openstreetmap.org/user/SimonPoole/diary/35275) version 0.9.6 of Vespucci, which is now available on Google Play. Before upgrading unposted changes must be uploaded as Changeset for OSM API, because the format of unposted changes, [has been changed](https://github.com/MarcusWolschon/osmeditor4android/blob/master/markdown/en/0.9.6%20Release%20notes.md#upgrading-from-previous-versions).
+* Simon Poole [anunciou](https://www.openstreetmap.org/user/SimonPoole/diary/35275) a versão 0.9.6 do Vespucci, que está disponível no Google Play. Antes do upgrade é preciso enviar alterações não postadas, pois o formato de envio [foi alterado](https://github.com/MarcusWolschon/osmeditor4android/blob/master/markdown/en/0.9.6%20Release%20notes.md#upgrading-from-previous-versions) e dados podem ser perdidos.
 
-* GeoServer [2.7.1](http://blog.geoserver.org/2015/05/20/geoserver-2-7-1-released) was released on May 21.
+* GeoServer [2.7.1](http://blog.geoserver.org/2015/05/20/geoserver-2-7-1-released) foi lançado em 21 de maio.
 
-* Simon [blogs](http://www.openstreetmap.org/user/SimonPoole/diary/35242) about the dangers of open technology when it is driven only by a single company and he mentions as an example MapBox and vector rendering.
+* Simon [blogou](http://www.openstreetmap.org/user/SimonPoole/diary/35242) sobre os perigos de tecnologias abertas serem desenvolvidas por apenas uma companhia, e cita a Mapbox e sua proposta de renderização vetorial de mapas.
 
-* GeoExt [reports](http://geoext.blogspot.de/2015/06/geoext-3-codesprint-day-2-and-3.html) the results of a three-days codesprint.
+* GeoExt [reportou](http://geoext.blogspot.de/2015/06/geoext-3-codesprint-day-2-and-3.html) os resultados de esforço de mapeamento de 3 dias.
 
-* Daniel Koć asks on josm-dev why editors do their own thing in the [tagging templates](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007401.html). The responses implied that as other editors are younger than JOSM the question should be why don't they use the JOSM infrastructure.
+* Daniel Koć perguntou na lista josm-dev porque editores fazem seus próprios [padrões de etiquetas](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007401.html). As respostas implicitaram que outros editores são mais jovens e que elem deveriam utilizar a infra-estrutura do JOSM.
 
-* Christoph [writes](http://blog.imagico.de/zur-handhabung-von-hohendaten/) about the necessary work when dealing with all kinds of elevation data.
+* Christoph [escree](http://blog.imagico.de/zur-handhabung-von-hohendaten/) sobre o trabalho necessário ao trabalhar como todos os tipos de dados sobre elevação.
 
-* OpenLayers [Release 3.6.0](https://github.com/openlayers/ol3/releases/tag/v3.6.0) is from June 07.
+* O [release 3.6.0](https://github.com/openlayers/ol3/releases/tag/v3.6.0) do OpenLayers saiu em 7 de junho.
 
-* SQLite [Release 3.8.10.2](http://www.sqlite.org/releaselog/3_8_10_2.html) dates from May 20.
+* O [Release 3.8.10.2](http://www.sqlite.org/releaselog/3_8_10_2.html) do SQLite saiu em 20 de maio.
 
-## Did you know ...
+## Você sabia ...
 
-* ... the [Leaflet Routing Machine](http://www.liedman.net/leaflet-routing-machine/) for easy displaying OSM-based map and routing capabilities via OSRM, GraphHopper or MapBox API?
+* ... do [Leaflet Routing Machine](http://www.liedman.net/leaflet-routing-machine/) para mostrar facilmente mapas do OpenStreetMap e rotas do OSRM, GraphHopper e MapBox API?
 
-* ... the [Thematic Cartography Guide](https://axismaps.github.io/thematic-cartography/) is available from [Axis Maps](http://www.axismaps.com/) ([via](https://geoobserver.wordpress.com/2015/06/16/gut-gefuhrt-thematische-kartografie/))
+* ... que o [Thematic Cartography Guide](https://axismaps.github.io/thematic-cartography/) está disponível no [Axis Maps](http://www.axismaps.com/) ([via](https://geoobserver.wordpress.com/2015/06/16/gut-gefuhrt-thematische-kartografie/))?
 
-## Outras coisas do mundo "geo"
+## Outras coisas do mundo geoespacial
 
 * [Techcrunch.com](http://techcrunch.com/2015/06/17/mapbox-raises-52-6m-led-by-dfj-to-build-the-map-layer-for-all-apps/) e [bizjournals.com](http://www.bizjournals.com/washington/blog/techflash/2015/06/this-d-c-map-developer-just-raised-more-than-50m.html) noticiaram que investidores teriam injetado cerca de 52 milhões de dólares na companhia americana MapBox.
 
-* Está parecendo que Audi, BMW e Mercedes, "As Três Grandes Alemãs", juntamente com a gigante chinesa Baidu, [estão prestes a formar uma parceria](http://www.bmwblog.com/2015/06/19/audi-bmw-mercedes-favorites-to-win-bid-for-nokia-here-maps/) para investir nos mapas Nokia HERE ou comprá-la
+* Está parecendo que Audi, BMW e Mercedes, "As Três Grandes Alemãs", juntamente com a gigante chinesa Baidu, [estão prestes a formar uma parceria](http://www.bmwblog.com/2015/06/19/audi-bmw-mercedes-favorites-to-win-bid-for-nokia-here-maps/) para investir nos mapas Nokia HERE ou comprá-la.
 
 * Como parte de um projeto integrador, cerca de [500 entradas de um diário britânico](http://www.axismaps.com/blog/2015/01/mass-observation-basemap/) datando da primeira metade do século XX foram georreferenciadas e agora podem ser visualizadas em um mapa. Embora o aspecto desse mapa lembre os impressos daquela época, trata-se de informação digital proveniente dos projetos OSM, [Ordnance Survey](http://www.ordnancesurvey.co.uk/) e [Natural Earth](http://www.naturalearthdata.com/).
 
