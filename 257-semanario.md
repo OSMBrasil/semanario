@@ -1,16 +1,16 @@
-#  weekly 257 16/06 -22/06/2015
+# Semanário 257 – 16.06.–22.06.2015
 
-[ weeklyteam](http://www.weeklyosm.eu/archives/author/weeklyteam) 30th June
+[ weeklyteam](http://www.weeklyosm.eu/pt/archives/author/weeklyteam) 30th June
 
-16/06 -22/06/2015
+16.06.–22.06.2015
 
 [![Mapping of Cambridge University under criticism](http://www.weeklyosm.eu/wp-content/uploads/2015/06/257_Cambridge.png)](http://www.weeklyosm.eu/wp-content/uploads/2015/06/257_Cambridge.png)
 
-O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
+Mapeamento na Universidade de Cambridge gerou controvérsia [1]
 
 ## Campanha de arrecadação para ampliação de servidores
 
-* [A meta foi alcançada.](http://donate.openstreetmap.org/server2015/) :)
+* [A meta foi alcançada.](http://donate.openstreetmap.org/server2015/) ![:\)](http://www.weeklyosm.eu/wp-includes/images/smilies/simple-smile.png)
 
 * As maiores doações únicas, sem considerar dos patrocinadores especiais foram: 500 euros (Matthias Eilers, [Kustenschmiede](https://kuestenschmiede.de/leistungen.html)), 500 dólares (Robert Cheetham), 250 euros (Klaus Tockloth, [Freizeitkarte](http://freizeitkarte-osm.de/)), 256 dólares (Ian Dees), 250 dólares (Nelson Minar), Pierre Boizot (200 francos suíços) e 200 euros de um doador anônimo. A comunidade agradece todas as doações.
 
@@ -26,13 +26,11 @@ O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 * [Estudantes reportaram](http://www.sentamu.com/open-street-map-comenius-project-visit-to-germany/) sobre uma semana de mapeamento na Alemanha durante a estadia em Saarburg para um [projeto escolar Comenius](https://wiki.openstreetmap.org/wiki/MychOSM).
 
-
-
 * Ao realizar uma pesquisa, um usuário na Bélgica [alterou](https://www.openstreetmap.org/user/escada/diary/35244) diversos valores de velocidade máxima para vias usando múltiplas contas sem consultar a comunidade. As mudanças resultaram em valores que estavam distantes da realidade. O Data Working Group já entrou em ação. Nos comentários, Jost Schouppe [alegou](https://www.openstreetmap.org/user/escada/diary/35244#comment31036) que um estudante de Ghent fez as alterações como parte de sua tese de mestrado.
 
 * O usuário sbagroy986 [informou](https://www.openstreetmap.org/user/sbagroy986/diary/35257) a comunidade sobre o progresso até o momento de seu projeto de "fila de moderação" que faz parte do Google Summer of Code deste ano. Ele desenvolveu um botão de "Reporte" para o osm.org, usado em diários de usuários (spam, insultos, ...) e conjunto de alterações. Foi criado também um painel de controle para administradores e moderadores, que é um sistema de gerenciamento para o Data Working Group.
 
-* Ninguém é mais  [rápido](https://twitter.com/ubahnverleih/status/612729250613981184) que o OSM, não é? Especialmente sobre a praça Edward Snowden em Dresden...
+* Ninguém é mais [rápido](https://twitter.com/ubahnverleih/status/612729250613981184) que o OSM, não é? Especialmente sobre a praça Edward Snowden em Dresden...
 
 ## Importações
 
@@ -54,7 +52,7 @@ O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 * [Pierre Beland](http://www.openstreetmap.org/user/PierZen/diary/35262) e [Dale Kunce](http://www.openstreetmap.org/user/dkunce/diary/35254) publicaram seus discursos de campanha para as eleições do conselho (HOT Board).
 
-## Maps
+## Mapas
 
 * Incrível como o [OpenStreetMap cresce rapidamente](https://twitter.com/harry_wood/status/612993841508020224).
 
@@ -78,7 +76,7 @@ O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 * O OsmAnd 2.1 [foi lançado](http://osmand.net/blog?id=osmand-2-1-released).
 
-* Com a ajuda do  [Geolicious](http://www.digital-geography.com/how-far-can-you-travel-answers-in-qgis-with-osm-route/#.VYe2kEbGtS2) está disponível um novo plugin do  [OpenRouteService](http://openrouteservice.org/) para o [Quantum GIS](http://www.qgis.org/).
+* Com a ajuda do [Geolicious](http://www.digital-geography.com/how-far-can-you-travel-answers-in-qgis-with-osm-route/#.VYe2kEbGtS2) está disponível um novo plugin do [OpenRouteService](http://openrouteservice.org/) para o [Quantum GIS](http://www.qgis.org/).
 
 * Simon Poole [anunciou](https://www.openstreetmap.org/user/SimonPoole/diary/35275) a versão 0.9.6 do Vespucci, que está disponível no Google Play. Antes do upgrade é preciso enviar alterações não postadas, pois o formato de envio [foi alterado](https://github.com/MarcusWolschon/osmeditor4android/blob/master/markdown/en/0.9.6%20Release%20notes.md#upgrading-from-previous-versions) e dados podem ser perdidos.
 
@@ -98,7 +96,7 @@ O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 ## Você sabia ...
 
-* ... do [Leaflet Routing Machine](http://www.liedman.net/leaflet-routing-machine/) para mostrar facilmente mapas do OpenStreetMap e rotas do OSRM, GraphHopper e MapBox API?
+* ... do [Leaflet Routing Machine](http://www.liedman.net/leaflet-routing-machine/), que mostra facilmente mapas do OpenStreetMap e rotas do OSRM, GraphHopper e MapBox API?
 
 * ... que o [Thematic Cartography Guide](https://axismaps.github.io/thematic-cartography/) está disponível no [Axis Maps](http://www.axismaps.com/) ([via](https://geoobserver.wordpress.com/2015/06/16/gut-gefuhrt-thematische-kartografie/))?
 
@@ -114,4 +112,5 @@ O mapamento da Universidade de Cambridge gerou controvérsia. [[1]](#257-karten)
 
 * Curiosidade: Max Roser compartilha no Twitter uma [ilustração](https://twitter.com/MaxCRoser/status/612386208111566849) que denuncia como projeções podem mudar o contorno de uma cabeça humana.
 
-* "<abbr title="Agência Espacial Européia (European Space Agency)">ESA</abbr> alardeia o [lançamento de um novo satélite de observação da Terra](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Second_Copernicus_environmental_satellite_safely_in_orbit)." Christop Hormann faz uma [reflexão](http://blog.imagico.de/sentinel-2a-satellite-launch/) sobre a utilidade dos dados e as relações públicas da ESA.
+* <abbr title="Agência Espacial Européia (European Space Agency)">ESA</abbr> alardeia o [lançamento de um novo satélite de observação da Terra](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-2/Second_Copernicus_environmental_satellite_safely_in_orbit). Christop Hormann faz uma [reflexão](http://blog.imagico.de/sentinel-2a-satellite-launch/) sobre a utilidade dos dados e as relações públicas da ESA.
+
