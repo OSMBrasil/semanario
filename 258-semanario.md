@@ -1,24 +1,24 @@
-#  weekly 258 23.06.-29.06.2015
+# Semanário 258 ‒ 23.06.‒29.06.2015
 
-23.06.-29.06.2015
+23.06.‒29.06.2015
 
-[![Säulendiagramm des Spendenaufkommens, eine Säule proTag](http://blog.openstreetmap.de/wp-uploads//2015/07/spendenkampagne-server2015-path.svg)](http://blog.openstreetmap.de/wp-uploads//2015/06/Elbphilharmonie_zensiert-Eine_Welt_ohne_Panoramafreiheit.jpg)
+![Doações num gráfico em barras, uma coluna por dia](258-chart.svg)
 
-Donations during the fundraising campaign to finance new hardware for OSM. [Chart: Nakaner – data: Frederik Ramm](https://lists.openstreetmap.org/pipermail/osmf-talk/attachments/20150630/feede3ff/attachment-0001.png). [1]
+Doações durante a campanha de angariação de fundos para o financiamento de um novo hardware para o OpenStreetMap. [Gráfico: Nakaner; Dados: Frederik Ramm](https://lists.openstreetmap.org/pipermail/osmf-talk/attachments/20150630/feede3ff/attachment-0001.png). [1]
 
-## About us
+## Sobre nós
 
-* The WeeklyOSM team sends greetings to our new [Brazilian](http://www.weeklyosm.eu/pt/) OSM friends ![\(Brasilianisches Portugisisch\)](http://blog.openstreetmap.de/wp-uploads//2015/01/pt-br.svg), who joined the weeklyOSM team: Bemvindo – or in English "Welcome", dear friends from the country of [Capoeira](https://en.wikipedia.org/wiki/Capoeira), [Copacabana](https://en.wikipedia.org/wiki/Copacabana_\(Rio_de_Janeiro\)), [Caipirinha](https://en.wikipedia.org/wiki/Caipirinha), [Jorge Amadao](https://en.wikipedia.org/wiki/Jorge_Amado) e [Oskar Niemeyer](https://en.wikipedia.org/wiki/Oscar_Niemeyer): [Vitor, Alexandre and John](https://wiki.openstreetmap.org/wiki/WeeklyOSM#Languages), sejam bemvindo 😉
+* O time WeeklyOSM saúda seus novos amigos [brasileiros](http://www.weeklyosm.eu/pt/) ![Português do Brasil](http://blog.openstreetmap.de/wp-uploads//2015/01/pt-br.svg): [Vitor, Alexandre e João](https://wiki.openstreetmap.org/wiki/WeeklyOSM#Languages). Sejam bem vindos, "Welcome", caríssimos amigos do país da [capoeira](https://en.wikipedia.org/wiki/Capoeira), da praia de [Copacabana](https://en.wikipedia.org/wiki/Copacabana_\(Rio_de_Janeiro\)), da [caipirinha](https://en.wikipedia.org/wiki/Caipirinha), de [Jorge Amado](https://en.wikipedia.org/wiki/Jorge_Amado) e [Oscar Niemeyer](https://en.wikipedia.org/wiki/Oscar_Niemeyer)! ;)
 
-* During July and August weeklyOSM will be taking a short summer holiday, providing monthly summaries for July (in early August) and for August (in early September).
+* Durante julho e agosto o WeeklyOSM tirará umas pequenas férias de verão. Será fornecido um resumo mensal no início de agosto e outro no início de setembro.
 
-## Mapping
+## Mapeamento
 
-* Imagico.de [provides images](http://blog.imagico.de/images-for-remote-mapping-in-openstreetmap/) for remote mapping in OSM for areas where MapBox or Bing have no or poor images. An overview can be procured in the browser and then embed the image service in JOSM.
+* Imagico.de [fornece images](http://blog.imagico.de/images-for-remote-mapping-in-openstreetmap/) para mapeamento remoto OSM, abrangendo áreas onde MapBox e Bing não cobrem ou são muito pobres. Uma visão geral é dada pelo navegador e o serviço de imagens pode habilitado no JOSM.
 
-* Fernando Trebien starts a [controversial discussion](https://lists.openstreetmap.org/pipermail/talk/2015-June/073414.html) regarding the difficulty of understanding and using relations in OSM for novice mappers using current editors..
+* Fernando Trebien abre uma [controversa discussão](https://lists.openstreetmap.org/pipermail/talk/2015-June/073414.html) sobre o quão difícil pode ser o mapeador novato entender e usar relações se lança mão dos atuais editores.
 
-* Ture Pålsson [stumbles](https://lists.openstreetmap.org/pipermail/talk/2015-June/073411.html) over a common misinterpretation of the Layer tag.
+* Ture Pålsson [tropeça](https://lists.openstreetmap.org/pipermail/talk/2015-June/073411.html) sobre uma comum má interpreatação da etiqueta `layer`.
 
 ## Community
 
@@ -38,9 +38,9 @@ Donations during the fundraising campaign to finance new hardware for OSM. [Char
 
 * A [local community](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/015036.html) has been created for mapping in [Southern Maryland](https://wiki.openstreetmap.org/wiki/Mapping_Southern_Maryland).
 
-## OpenStreetMap Foundation
+## Fundação OpenStreetMap
 
-* The fundraising goal for new server hardware has been achieved and even exceeded. The Operations Working Group OWG [says thank you](http://donate.openstreetmap.org/server2015/)! Frederik Ramm has [compiled](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-June/003348.html) some interesting data.
+* A meta de angariação de fundos para a aquisição do novo hardware de servidor foi alcançada e superada. O grupo de trabalho de operações (OWG) [diz seu muito obrigado](http://donate.openstreetmap.org/server2015/)! Frederik Ramm [compilou](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-June/003348.html) alguns dados interessantes.
 
 ## Events
 
@@ -54,25 +54,25 @@ Donations during the fundraising campaign to finance new hardware for OSM. [Char
 
 * Frederik Ramm [is looking for](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007765.html) volunteers from Austria, which would assist in the planning and implementation of FOSSGIS 2016.
 
-## Humanitarian OSM
+## OSM Humanitário
 
-* The Humanitarian OSM Team is recruiting a short-term research post for [two months](http://hotosm.org/job/research_consultant_openaerialmap/2015). Application deadline is July 03.
+* O Time Humanitário do OpenStreetMap (HOT) está recrutando um consultor de pesquisa temporário, para um curto-prazo de apenas [dois meses](http://hotosm.org/job/research_consultant_openaerialmap/2015). Inscrições podem ser realizadas até o dia 3 de julho. 
 
-* User dkunce has completed a first three hours "office hours" [question and answer session](http://www.openstreetmap.org/user/dkunce/diary/35272) for HOT. He sums up three important questions that were put to him.
+* O usuário dkunce completou suas primeiras três "horas de trabalho" fazendo [sessão de perguntas e respostas](http://www.openstreetmap.org/user/dkunce/diary/35272) para o HOT. Em seu diário, resume as três principais questões que lhe foram apresentadas.
 
-## Maps
+## Mapas
 
-* A Polish Mapper shows population density [statistics to major cities ](http://www.merkato.polineo.pl/qa/#9/52.8418/19.2769)on a map.
+* Um mapeador polonês mostra em um mapa as [estatísticas de densidade populacional](http://www.merkato.polineo.pl/qa/#9/52.8418/19.2769) para a maioria das cidades.
 
-## Open Data
+## Dados Abertos
 
-* The British Ministry of Environment has announced the release of 8000 UK datasets under a free license. ([via @DefraGovUK](https://twitter.com/DefraGovUK/status/613988823803035648))
+* O Ministério Britânico do Meio Ambiente anunciou a liberação de 8 mil conjuntos de dados sob uma licença livre. ([via @DefraGovUK](https://twitter.com/DefraGovUK/status/613988823803035648))
 
-## Licences
+## Licenças
 
-* A possible side effect of [omitting attribution](https://lists.openstreetmap.org/pipermail/legal-talk/2015-June/008139.html) – prevention of vandalism?
+* Um possível efeito colateral bom de [omitir a atribuição](https://lists.openstreetmap.org/pipermail/legal-talk/2015-June/008139.html) seria a prevenção de vandalismo?
 
-* Jan Erik Solem [has questions](https://lists.openstreetmap.org/pipermail/legal-talk/2015-June/008140.html) about ODbL because Mapillary would like to use OSM data increasingly.
+* Jan Erik Solem [tem questões](https://lists.openstreetmap.org/pipermail/legal-talk/2015-June/008140.html) sobre a ODbL, já que o Mapillary tende cada vez mais a usar dados OSM.
 
 ## Software
 
@@ -90,9 +90,9 @@ Donations during the fundraising campaign to finance new hardware for OSM. [Char
 
 * Michael Zangl [released ](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007438.html)a beta version of its OpenGL MapViews for JOSM, which he programmed in the context of his Google Summer of Code project.
 
-## Did you know ...
+## Você sabia ...
 
-* ... about the [POI – map](http://pois.elblogdehumitos.com.ar/#14/-0.2040/-78.4505) in Spanish? ![Spanisch](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
+* ... do [POI – map](http://pois.elblogdehumitos.com.ar/#14/-0.2040/-78.4505) em espanhol? ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
 ## Other "geo" things
 
@@ -111,3 +111,4 @@ Donations during the fundraising campaign to finance new hardware for OSM. [Char
 * Microsoft [sells](http://www.heise.de/newsticker/meldung/Microsoft-verkauft-Online-Werbung-und-Karten-Technik-2731408.html) its map division to Uber. The data for Bing Maps will come from a partner. We recommend OpenStreetMap data! The use of satellite images by OSM will not immediately be affected [says Ricky Brundritt](https://twitter.com/rbrundritt/status/616028862531530752) (Program Manager for Bing Maps).
 
 * Chris Hormann reflects on the [accuracy of satellite images](http://blog.imagico.de/uber-die-genauigkeit-von-satellitenbildern/) ([automatic translation](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fblog.imagico.de%2Fuber-die-genauigkeit-von-satellitenbildern%2F)).
+
