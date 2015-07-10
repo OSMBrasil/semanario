@@ -42,17 +42,17 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 * A meta de angariação de fundos para a aquisição do novo hardware de servidor foi alcançada e superada. O grupo de trabalho de operações (OWG) [diz seu muito obrigado](http://donate.openstreetmap.org/server2015/)! Frederik Ramm [compilou](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-June/003348.html) alguns dados interessantes.
 
-## Events
+## Eventos
 
-* [Facts and figures](http://openstreetmap.us/2015/06/sotmus-by-the-numbers/) on SotM US 2015.
+* [Fatos e images](http://openstreetmap.us/2015/06/sotmus-by-the-numbers/) do SotM US 2015.
 
-* From September 30 to October 04 the SotM Scotland will take place in [Edinburgh](http://www.openstreetmap.org/user/Hawkeye/diary/35299). The program is already partially [online](https://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015#Programme).
+* De 30 de setembro a 4 de outubro, acontecerá o SotM da Escócia, em [Edinburgh](http://www.openstreetmap.org/user/Hawkeye/diary/35299). A programação já está parcialmente [online](https://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015#Programme).
 
-* User Gowin reported on an [OSM workshop](http://www.openstreetmap.org/user/GOwin/diary/35296), which recently took place in Manila in the FEU Institute of Technology.
+* O usuário Gowin relatou um [workshop OSM](http://www.openstreetmap.org/user/GOwin/diary/35296) realizado em Manila, no Instituto de Tecnologia FEU.
 
-* In a cooperation between [geoimagina](http://www.geoimagina.com/quienes-somos) and the [Instituto Panamericano de Geografía e Historia](http://www.ipgh.gob.ec/portal/index.php/institucion/mision-vision-valores) the following series of events will take place in Quito: July 09 – Introduction to OSM; July 21 – Creating geoportals using free software; July 28 – Producing Goestatistics with R; August 20 – risk scenarios for the threat from tsunamis. ![Spanisch](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
+* Numa cooperação entre [geoimagina](http://www.geoimagina.com/quienes-somos) e o [Instituto Panamericano de Geografia e História](http://www.ipgh.gob.ec/portal/index.php/institucion/mision-vision-valores), a seguinte série de eventos terá lugar em Quito: 9 de julho – Introdução ao OSM; 21 de julho – Criando geoportais com software livre; 28 de julho – Produzindo geoestatísticas com R; 20 de agosto – Cenários de risco para a ameaça de tsunamis. ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
-* Frederik Ramm [is looking for](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007765.html) volunteers from Austria, which would assist in the planning and implementation of FOSSGIS 2016.
+* Frederik Ramm [está procurando](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007765.html) voluntários austríacos que possam ajudá-lo a  planejar e realizar o FOSSGIS 2016.
 
 ## OSM Humanitário
 
@@ -76,19 +76,19 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 ## Software
 
-* Using the [OSMroute plugin](https://plugins.qgis.org/plugins/OSMroute/) it is possible to calculate routes through openroutservice.org in QGIS.
+* Usando o plugin [OSMroute](https://plugins.qgis.org/plugins/OSMroute/) é possível calcular rotas do openroutservice.org em QGIS.
 
-* The Wall Street Journal published a [JavaScript library](http://dowjones.github.io/pinpoint/) for easily creating maps with just a few clicks.
+* O Wall Street Journal publicou uma [biblioteca JavaScript](http://dowjones.github.io/pinpoint/) para a criação fácil de mapas em poucos cliques.
 
-* OsmAnd is [five years old](http://osmand.net/blog?id=5_years). WeeklyOSM congratulates the app, which is considered by many non-mappers as the OpenStreetMap app for Android.
+* OsmAnd completa [cinco anos](http://osmand.net/blog?id=5_years). A equipe WeeklyOSM parabeniza essa _app_ que é considerada por muitos não-mapeadores como sendo o OpenStreetMap para Android.
 
-* A [recent](https://vimeo.com/131866488) demonstration of [OpenSfM](https://github.com/mapillary/OpenSfM) to understand the smooth transition of Mapillary photos. (more but older examples in [Mapillary’s blog](http://blog.mapillary.com/update/2014/12/15/sfm-preview.html)).
+* Demonstrou-se [recentemente](https://vimeo.com/131866488) como o [OpenSfM](https://github.com/mapillary/OpenSfM) pode fazer transições suaves de fotos do Mapillary. (exemplos anteriores estão no [blog do Mapillary](http://blog.mapillary.com/update/2014/12/15/sfm-preview.html)).
 
-* MapBox ‘OpenGL-based map now [supports](https://www.mapbox.com/blog/mapbox-gl-js-0-8-1/) a perspective view.
+* O mapa do MapBox, baseado em OpenGL, agora [suporta](https://www.mapbox.com/blog/mapbox-gl-js-0-8-1/) uma vista em perspectiva.
 
-* Richard Fairhurst [has created](http://blog.systemed.net/post/13) [Tilemaker](https://github.com/systemed/tilemaker) a tool to generate vector tiles from PBF extracts.
+* Richard Fairhurst [criou](http://blog.systemed.net/post/13) o [Tilemaker](https://github.com/systemed/tilemaker), uma ferramenta para gerar _tiles_ em vetor a partir de extrações PBF.
 
-* Michael Zangl [released ](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007438.html)a beta version of its OpenGL MapViews for JOSM, which he programmed in the context of his Google Summer of Code project.
+* Michael Zangl [liberou](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007438.html) uma versão beta de seu _OpenGL MapViews for JOSM_, que foi programado no contexto de seu projeto para o Google Summer of Code.
 
 ## Você sabia ...
 
