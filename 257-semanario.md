@@ -1,6 +1,4 @@
-# Semanário 257 – 16.06.–22.06.2015
-
-[ weeklyteam](http://www.weeklyosm.eu/pt/archives/author/weeklyteam) 30th June
+# semanário 257 – 16.06.–22.06.2015
 
 16.06.–22.06.2015
 
