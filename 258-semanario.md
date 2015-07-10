@@ -1,28 +1,28 @@
-# Semanário 258 ‒ 23.06.‒29.06.2015
+# semanário 258 ‒ 23.06.‒29.06.2015
 
 23.06.‒29.06.2015
 
-![Doações num gráfico em barras, uma coluna por dia](258-chart.svg)
+![Doações num gráfico em barras, uma coluna por dia](http://www.weeklyosm.eu/wp-content/uploads/2015/07/258-chart.svg)
 
-Doações durante a campanha de angariação de fundos para o financiamento de um novo hardware para o OpenStreetMap. [Gráfico: Nakaner; Dados: Frederik Ramm](https://lists.openstreetmap.org/pipermail/osmf-talk/attachments/20150630/feede3ff/attachment-0001.png). [1]
+Doações durante a campanha de angariação de fundos para o financiamento de um novo hardware para o OpenStreetMap. [Gráfico: Nakaner; Dados: Frederik Ramm.](https://lists.openstreetmap.org/pipermail/osmf-talk/attachments/20150630/feede3ff/attachment-0001.png) [1]
 
 ## Sobre nós
 
-* O time WeeklyOSM saúda seus novos amigos [brasileiros](http://www.weeklyosm.eu/pt/) ![Português do Brasil](http://blog.openstreetmap.de/wp-uploads//2015/01/pt-br.svg): [Vitor, Alexandre e João](https://wiki.openstreetmap.org/wiki/WeeklyOSM#Languages). Sejam bem vindos, "Welcome", caríssimos amigos do país da [capoeira](https://en.wikipedia.org/wiki/Capoeira), da praia de [Copacabana](https://en.wikipedia.org/wiki/Copacabana_\(Rio_de_Janeiro\)), da [caipirinha](https://en.wikipedia.org/wiki/Caipirinha), de [Jorge Amado](https://en.wikipedia.org/wiki/Jorge_Amado) e [Oscar Niemeyer](https://en.wikipedia.org/wiki/Oscar_Niemeyer)! ;)
+* O time WeeklyOSM saúda seus novos amigos [brasileiros](http://www.weeklyosm.eu/pt/) ![Português do Brasil](http://blog.openstreetmap.de/wp-uploads//2015/01/pt-br.svg) [Vitor, Alexandre e João](https://wiki.openstreetmap.org/wiki/WeeklyOSM#Languages). Sejam bem vindos, "Welcome", caríssimos amigos do país da [capoeira](https://en.wikipedia.org/wiki/Capoeira), da praia de [Copacabana](https://en.wikipedia.org/wiki/Copacabana_%5C\(Rio_de_Janeiro%5C)), da [caipirinha](https://en.wikipedia.org/wiki/Caipirinha), de [Jorge Amado](https://en.wikipedia.org/wiki/Jorge_Amado) e [Oscar Niemeyer](https://en.wikipedia.org/wiki/Oscar_Niemeyer)! ;)
 
 * Durante julho e agosto o WeeklyOSM tirará umas pequenas férias de verão. Será fornecido um resumo mensal no início de agosto e outro no início de setembro.
 
 ## Mapeamento
 
-* Imagico.de [fornece images](http://blog.imagico.de/images-for-remote-mapping-in-openstreetmap/) para mapeamento remoto OSM, abrangendo áreas onde MapBox e Bing não cobrem ou são muito pobres. Uma visão geral é dada pelo navegador e o serviço de imagens pode habilitado no JOSM.
+* Imagico.de [fornece imagens](http://blog.imagico.de/images-for-remote-mapping-in-openstreetmap/) para mapeamento remoto OSM, abrangendo áreas onde MapBox e Bing não cobrem ou são muito pobres. Uma visão geral é dada pelo navegador e o serviço de imagens pode habilitado no JOSM.
 
 * Fernando Trebien abre uma [controversa discussão](https://lists.openstreetmap.org/pipermail/talk/2015-June/073414.html) sobre o quão difícil pode ser o mapeador novato entender e usar relações se lança mão dos atuais editores.
 
-* Ture Pålsson [tropeça](https://lists.openstreetmap.org/pipermail/talk/2015-June/073411.html) sobre uma comum má interpreatação da etiqueta `layer`.
+* Ture Pålsson [tropeça](https://lists.openstreetmap.org/pipermail/talk/2015-June/073411.html) sobre uma comum má interpretação da etiqueta `layer`.
 
 ## Comunidade
 
-* Mapzen compara o dilúvio de dados no OSM com o "Vórtice da Perspectiva Total", da série de ficção científica  "O Guia do Mochileiro das Galáxias". Já que o seu cérebro não explode, ele opta por focar em categorias de dados individuais. Primeiramente colocam-se [as bordas](https://mapzen.com/blog/total-perspective-vortex) sob o microscópio.
+* Mapzen compara o dilúvio de dados no OSM com o "Vórtice da Perspectiva Total", da série de ficção científica "O Guia do Mochileiro das Galáxias". Já que o seu cérebro não explode, ele opta por focar em categorias de dados individuais. Primeiramente colocam-se [as bordas](https://mapzen.com/blog/total-perspective-vortex) sob o microscópio.
 
 * "Mapeador Viciado" já foi uma das classificações dadas pelo analisador de conjuntos de alterações [hdyc](http://neis-one.org/2012/01/what-type-of-mapper-are-you/) de Pascal Neis, por um tempo. Tim Waters tem outra [abordagem](http://de.slideshare.net/chippy/you-know-when-you-are-addicted-to-osm-when) em sua apresentação. ;)
 
@@ -52,11 +52,11 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 * Numa cooperação entre [geoimagina](http://www.geoimagina.com/quienes-somos) e o [Instituto Panamericano de Geografia e História](http://www.ipgh.gob.ec/portal/index.php/institucion/mision-vision-valores), a seguinte série de eventos terá lugar em Quito: 9 de julho – Introdução ao OSM; 21 de julho – Criando geoportais com software livre; 28 de julho – Produzindo geoestatísticas com R; 20 de agosto – Cenários de risco para a ameaça de tsunamis. ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
-* Frederik Ramm [está procurando](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007765.html) voluntários austríacos que possam ajudá-lo a  planejar e realizar o FOSSGIS 2016.
+* Frederik Ramm [está procurando](https://lists.openstreetmap.org/pipermail/talk-at/2015-June/007765.html) voluntários austríacos que possam ajudá-lo a planejar e realizar o FOSSGIS 2016.
 
 ## OSM Humanitário
 
-* O Time Humanitário do OpenStreetMap (HOT) está recrutando um consultor de pesquisa temporário, para um curto-prazo de apenas [dois meses](http://hotosm.org/job/research_consultant_openaerialmap/2015). Inscrições podem ser realizadas até o dia 3 de julho. 
+* O Time Humanitário do OpenStreetMap (HOT) está recrutando um consultor de pesquisa temporário, para um curto-prazo de apenas [dois meses](http://hotosm.org/job/research_consultant_openaerialmap/2015). Inscrições podem ser realizadas até o dia 3 de julho.
 
 * O usuário dkunce completou suas primeiras três "horas de trabalho" fazendo [sessão de perguntas e respostas](http://www.openstreetmap.org/user/dkunce/diary/35272) para o HOT. Em seu diário, resume as três principais questões que lhe foram apresentadas.
 
@@ -82,7 +82,7 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 * OsmAnd completa [cinco anos](http://osmand.net/blog?id=5_years). A equipe WeeklyOSM parabeniza essa _app_ que é considerada por muitos não-mapeadores como sendo o OpenStreetMap para Android.
 
-* Demonstrou-se [recentemente](https://vimeo.com/131866488) como o [OpenSfM](https://github.com/mapillary/OpenSfM) pode fazer transições suaves de fotos do Mapillary. (exemplos anteriores estão no [blog do Mapillary](http://blog.mapillary.com/update/2014/12/15/sfm-preview.html)).
+* Demonstrou-se [recentemente](https://vimeo.com/131866488) como o [OpenSfM](https://github.com/mapillary/OpenSfM) pode fazer transições suaves de fotos do Mapillary. Exemplos anteriores estão no [blog do Mapillary](http://blog.mapillary.com/update/2014/12/15/sfm-preview.html).
 
 * O mapa do MapBox, baseado em OpenGL, agora [suporta](https://www.mapbox.com/blog/mapbox-gl-js-0-8-1/) uma vista em perspectiva.
 
