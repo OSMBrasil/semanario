@@ -20,23 +20,23 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 * Ture Pålsson [tropeça](https://lists.openstreetmap.org/pipermail/talk/2015-June/073411.html) sobre uma comum má interpreatação da etiqueta `layer`.
 
-## Community
+## Comunidade
 
-* Mapzen compares the flood of data in OSM with the "Total Perspective Vortex" from "The Hitchhiker’s Guide to the Galaxy". So your brain doesn’t explode, they have chosen to focus on individual data categories. First they put [the borders](https://mapzen.com/blog/total-perspective-vortex) under the microscope.
+* Mapzen compara o dilúvio de dados no OSM com o "Vórtice da Perspectiva Total", da série de ficção científica  "O Guia do Mochileiro das Galáxias". Já que o seu cérebro não explode, ele opta por focar em categorias de dados individuais. Primeiramente colocam-se [as bordas](https://mapzen.com/blog/total-perspective-vortex) sob o microscópio.
 
-* "Addicted Mapper" has been defined by the [changesets in hdyc](http://neis-one.org/2012/01/what-type-of-mapper-are-you/) by Pascal Neis for some time. Tim Waters has an other [approach](http://de.slideshare.net/chippy/you-know-when-you-are-addicted-to-osm-when) in his presentation. 😉
+* "Mapeador Viciado" já foi uma das classificações dadas pelo analisador de conjuntos de alterações [hdyc](http://neis-one.org/2012/01/what-type-of-mapper-are-you/) de Pascal Neis, por um tempo. Tim Waters tem outra [abordagem](http://de.slideshare.net/chippy/you-know-when-you-are-addicted-to-osm-when) em sua apresentação. ;)
 
-* Pete Warde is looking for a new home for [OpenHeatMap](https://twitter.com/petewarden/status/613811714329448452).
+* Pete Warde está à procura de uma nova casa para o [OpenHeatMap](https://twitter.com/petewarden/status/613811714329448452).
 
-* Edward17 published statistics and before and after pictures to the [15th weekly task](http://www.openstreetmap.org/user/edward17/diary/35285) in Ukraine. ([automated translation](https://translate.google.com/translate?hl=en&sl=ru&tl=en&u=http%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Fedward17%2Fdiary%2F35285))
+* Por ocasião da [15ª semana de tarefas](http://www.openstreetmap.org/user/edward17/diary/35285) na Ucrânia ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=ru&tl=pt&u=http%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Fedward17%2Fdiary%2F35285)), Edward17 publicou estatísticas e imagens que comparam o antes e o depois.
 
-* Thanks to the [Python community,](https://github.com/PythonParaguay/osm-paraguay-data/) at Geofabrik you can now find OSM data for [Paraguay](http://download.geofabrik.de/south-america/paraguay.html) as well. ![Spanisch](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
+* Graças à [comunidade Python](https://github.com/PythonParaguay/osm-paraguay-data/), no Geofabrik agora também temos dados OSM referentes ao [Paraguai](http://download.geofabrik.de/south-america/paraguay.html). ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
-* Manuel Kaufmann (aka [humitos](http://www.openstreetmap.org/user/Humitos)) blogged about how you can work [offline with JOSM for OSM](http://elblogdehumitos.com.ar/posts/edicion-openstreetmap-offline/). ([automated translation](https://translate.google.de/translate?hl=en&sl=es&tl=en&u=http%3A%2F%2Felblogdehumitos.com.ar%2Fposts%2Fedicion-openstreetmap-offline%2F)) ![Spanisch](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
+* Manuel Kaufmann (_aka_ [humitos](http://www.openstreetmap.org/user/Humitos)) blogou sobre como se pode [mapear desconectado usando JOSM](http://elblogdehumitos.com.ar/posts/edicion-openstreetmap-offline/). ([tradução automática](https://translate.google.de/translate?hl=pt-BR&sl=es&tl=pt&u=http%3A%2F%2Felblogdehumitos.com.ar%2Fposts%2Fedicion-openstreetmap-offline%2F)) ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
-* Would you like to move to sunny California? Telenav is offering [a couple of jobs](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/015040.html) that might be interesting for an OSM mapper.
+* Você gostaria de se mudar para a ensolarada Califórnia? Telenav está oferecendo [dois postos de trabalho](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/015040.html) que podem interessar a um mapeador OSM.
 
-* A [local community](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/015036.html) has been created for mapping in [Southern Maryland](https://wiki.openstreetmap.org/wiki/Mapping_Southern_Maryland).
+* Uma [comunidade local](https://lists.openstreetmap.org/pipermail/talk-us/2015-June/015036.html) foi criada para mapear a [Marilândia do Sul](https://wiki.openstreetmap.org/wiki/Mapping_Southern_Maryland).
 
 ## Fundação OpenStreetMap
 
@@ -44,7 +44,7 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 ## Eventos
 
-* [Fatos e images](http://openstreetmap.us/2015/06/sotmus-by-the-numbers/) do SotM US 2015.
+* [Fatos e imagens](http://openstreetmap.us/2015/06/sotmus-by-the-numbers/) do SotM US 2015.
 
 * De 30 de setembro a 4 de outubro, acontecerá o SotM da Escócia, em [Edinburgh](http://www.openstreetmap.org/user/Hawkeye/diary/35299). A programação já está parcialmente [online](https://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015#Programme).
 
@@ -94,21 +94,21 @@ Doações durante a campanha de angariação de fundos para o financiamento de u
 
 * ... do [POI – map](http://pois.elblogdehumitos.com.ar/#14/-0.2040/-78.4505) em espanhol? ![Espanhol](http://blog.openstreetmap.de/wp-uploads//2015/01/es.svg)
 
-## Other "geo" things
+## Outras coisas "geo"
 
-* According to unconfirmed [rumours,](https://twitter.com/shtosm/status/613642856457240577) Dennis Luxen now works with Apple.
+* Há [rumores](https://twitter.com/shtosm/status/613642856457240577) de que Dennis Luxen agora trabalha com a Apple.
 
-* Geocache removed under [bridge](http://www.sz-online.de/nachrichten/lebensgefaehrlicher-geocaching-punkt-von-bruecke-ueber-bahretal-entfernt-3132806.html) ([automatic translation](https://translate.google.com/translate?sl=de&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.sz-online.de%2Fnachrichten%2Flebensgefaehrlicher-geocaching-punkt-von-bruecke-ueber-bahretal-entfernt-3132806.html&edit-text=&act=url)). Madness on feeder road: [See the photos](http://www.sz-online.de/sachsen/irrsinn-am-autobahnzubringer-g15410.html?StoryId=3132806).
+* Geocache estava [debaixo da ponte](http://www.sz-online.de/nachrichten/lebensgefaehrlicher-geocaching-punkt-von-bruecke-ueber-bahretal-entfernt-3132806.html) ([tradução automática](https://translate.google.com/translate?sl=de&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Fwww.sz-online.de%2Fnachrichten%2Flebensgefaehrlicher-geocaching-punkt-von-bruecke-ueber-bahretal-entfernt-3132806.html&edit-text=&act=url)). Um rapel muito doido! [Veja as fotos](http://www.sz-online.de/sachsen/irrsinn-am-autobahnzubringer-g15410.html?StoryId=3132806).
 
-* CartoDB explains [their switch](http://blog.cartodb.com/gme-workflows-on-cartodb/?utm_content=17249811) away from Google Maps Engine.
+* CartoDB vende o seu peixe e explica [o que muda](http://blog.cartodb.com/gme-workflows-on-cartodb/?utm_content=17249811) para quem vem do Google Maps Engine.
 
-* Tim Sutton draws our attention to a [polemical](https://twitter.com/timlinux/status/611048497584979968) article by Lewis Graham about GPL at LIDAR. The [QGIS-CH Usergroup](https://twitter.com/QGISCH) commented this post accordingly with a quote from [Mahatma Gandhi](http://izquotes.com/quote/68010).
+* Tim Sutton chama nossa atenção para um [polêmico](https://twitter.com/timlinux/status/611048497584979968) artigo de Lewis Graham sobre a GPL no LIDAR. O grupo de usuários [QGIS-CH](https://twitter.com/QGISCH) comentou o _post_ de Graham citando [Mahatma Gandhi](http://izquotes.com/quote/68010).
 
-* Laura Bliss commented on CityLab about the [growth of OSM](http://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/) and assessed it positively – that with OSM a competitor is growing for our "market companion".
+* No CityLab, Laura Bliss teceu comentários sobre o [crescimento do OSM](http://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/) e o avaliou positivamente. Segundo ela, com o OpenStreetMap um competidor cresce para ser nosso "companheiro de mercado".
 
-* [Who needs GPS](http://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system)?
+* "[Quem precisa de GPS](http://www.fastcompany.com/3047828/who-needs-gps-the-forgotten-story-of-etaks-amazing-1985-car-navigation-system)?"
 
-* Microsoft [sells](http://www.heise.de/newsticker/meldung/Microsoft-verkauft-Online-Werbung-und-Karten-Technik-2731408.html) its map division to Uber. The data for Bing Maps will come from a partner. We recommend OpenStreetMap data! The use of satellite images by OSM will not immediately be affected [says Ricky Brundritt](https://twitter.com/rbrundritt/status/616028862531530752) (Program Manager for Bing Maps).
+* Microsoft [vende](http://www.heise.de/newsticker/meldung/Microsoft-verkauft-Online-Werbung-und-Karten-Technik-2731408.html) sua divisão de mapas à Uber. Os dados para o Bing Maps virão de um parceiro. Nós recomendamos dados OpenStreetMap! O uso das imagens de satélite pelo OSM não será imediatamente afetado, [disse Ricky Brundritt](https://twitter.com/rbrundritt/status/616028862531530752) (Gerente de Programa para o Bing Maps).
 
-* Chris Hormann reflects on the [accuracy of satellite images](http://blog.imagico.de/uber-die-genauigkeit-von-satellitenbildern/) ([automatic translation](https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fblog.imagico.de%2Fuber-die-genauigkeit-von-satellitenbildern%2F)).
+* Chris Hormann reflete sobre a [acurácia das imagens de satélite](http://blog.imagico.de/uber-die-genauigkeit-von-satellitenbildern/) ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=de&tl=pt&u=http%3A%2F%2Fblog.imagico.de%2Fuber-die-genauigkeit-von-satellitenbildern%2F)).
 
