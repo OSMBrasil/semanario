@@ -1,14 +1,12 @@
 30.06.-27.07.2015
 
-[![Campuskarte mit 3d Buildings](http://blog.openstreetmap.de/wp-
-uploads//2015/07/uni_leicester.jpg)](http://blog.openstreetmap.de/wp-
-uploads//2015/07/uni_leicester.jpg)Campus with 3D Buildings [1]
+[![Campus com edificações em 3D](http://blog.openstreetmap.de/wp-uploads//2015/07/uni_leicester.jpg)](http://blog.openstreetmap.de/wp-uploads//2015/07/uni_leicester.jpg)Campus com edificações em 3D [1]
 
-## About us
+## Sobre nós
 
-* Since issue #262, Marc Gemis from Belgium has joined the German Wochennotiz team and adds news from Belgium and from the French community.
+* A partir da edição #262, Marc Gemis, da Bélgica, está com o time alemão do Wochennotiz, adicionando notícias das comunidades belga e francesa.
 
-* We are also happy to announce that Ruben Lopez Mendoza from Ayacucho, Peru has joined the Spanish weeklyOSM team. Bienvenido Ruben!
+* Também estamos felizes em anunciar que Ruben Lopez Mendoza, de Ayacucho, no Peru, está contribuindo em espanhol. Bem vindo, Ruben!
 
 ## Mapping
 
@@ -80,25 +78,25 @@ uploads//2015/07/uni_leicester.jpg)Campus with 3D Buildings [1]
 
 * A new [microtasking platform](http://crowdmap.geog.uni-heidelberg.de/app/missing_maps_follow_up/) has emerged at the University of Heidelberg. Currently human settlements and roads in [South Kivu](http://www.openstreetmap.org/relation/193100#map=4/0.44/29.00) in the DRC are being checked for the [Missing Maps Project](http://wiki.openstreetmap.org/wiki/Missing_Maps_Project).
 
-## Maps
+## Mapas
 
-* Users ccalista [explains](http://www.openstreetmap.org/user/ccalista/diary/35314) in her blog how current OSM data can be loaded into OsmAnd via Overpass to test the most recent changes with OsmAnd.
+* A usuária ccalista [explica](http://www.openstreetmap.org/user/ccalista/diary/35314) no blog dela como os dados do OSM, atualizados, podem ser carregados para teste no OsmAnd via Overpass.
 
-* Andy Allan proposes (in an [issue of the OSM Carto project](https://github.com/gravitystorm/openstreetmap-carto/issues/1630)) to introduce a directive to decide what new features are to be included in the rendering of the main style on osm.org and which are not.
+* Andy Allan propõe (numa [_issue_ do projeto OSM Carto](https://github.com/gravitystorm/openstreetmap-carto/issues/1630)) a introdução de regras para aceitação ou negação de mudanças no estilo principal de mapa do osm.org.
 
-* Adrien Pavie published [OpenLevelUp](http://github.pavie.info/openlevelup/)!, an online map for watching objects in the specific floors of indoor-mapped buildings
+* Adrien Pavie publicou o [OpenLevelUp](http://github.pavie.info/openlevelup/), um mapa online de objetos que estejam em pisos de edificações mapeadas internamente.
 
-* The Austrian "Der Standard" [reported](http://derstandard.at/2000018721925/Der-schnellste-Weg-durchs-Latschenlabyrinth) on the company Pentamap, a spin-off from the Geodetic Institute of the Technical University of Graz. The company works on an off-road routing in the Alps for mountain rescuers and hunters using aerial photography and digital terrain models and OSM data. (automatic [translation](https://translate.google.de/translate?sl=auto&tl=en&js=y&prev=_t&hl=de&ie=UTF-8&u=http%3A%2F%2Fderstandard.at%2F2000018721925%2FDer-schnellste-Weg-durchs-Latschenlabyrinth&edit-text=&act=url))
+* O canal austríaco "Der Standard" fez [matéria](http://derstandard.at/2000018721925/Der-schnellste-Weg-durchs-Latschenlabyrinth) sobre a empresa Pentamap, uma _spin-off_ acadêmica gerada no Instituto Geodésico da Universidade Técnica de [Graz](https://pt.wikipedia.org/wiki/Graz). Ela desenvolve roteamento fora de estrada para os Alpes, destinado a equipes de resgate e caçadores. Usa-se fotos aéreas, modelos digitais de terreno, e dados do OSM. ([tradução automática](https://translate.google.de/translate?sl=de&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Fderstandard.at%2F2000018721925%2FDer-schnellste-Weg-durchs-Latschenlabyrinth&edit-text=&act=url))
 
-* [1] The University of Leicester has created a [map of the campus](https://www.le.ac.uk/maps/) based on OSM data and OSM Buildings. (via [@GISPowered](https://twitter.com/GISPowered/status/623051400096804864))
+* [1] A [Universidade de Leicester](https://pt.wikipedia.org/wiki/Universidade_de_Leicester) criou um [mapa do _campus_](https://www.le.ac.uk/maps/) baseado em dados OSM e no [OSM Buildings](http://osmbuildings.org). (via [@GISPowered](https://twitter.com/GISPowered/status/623051400096804864))
 
-* [The GPSies](http://www.gpsies.com/?language=en&client=summit#10_49.3721923828125_8.447799682617188_mapQuest) website hasbeen redesigned. See the blog post [here](http://blog.gpsies.com/article/201/gpsies-in-neuem-outfit).
+* O website do [GPSies](http://www.gpsies.com/?language=pt_BR) foi reprojetado. [Leia](https://translate.google.com/translate?hl=pt-BR&sl=de&tl=pt&u=http%3A%2F%2Fblog.gpsies.com%2Farticle%2F201%2Fgpsies-in-neuem-outfit) no blog deles sobre a novidade.
 
-* Mateusz Konieczny presents a [new default map style version](http://www.openstreetmap.org/user/Mateusz%20Konieczny/diary/35565) and asks for feedback (see other diary entries for previous posts on the same topic).
+* Mateusz Konieczny nos apresenta um [novo estilo padrão de mapa](http://www.openstreetmap.org/user/Mateusz%20Konieczny/diary/35565) e pede _feedback_. Não esqueça de ler no diário dele as postagens anteriores sobre o mesmo assunto.
 
-* On the British OSM mailing list, one [topic](https://lists.openstreetmap.org/pipermail/talk-gb/2015-July/017627.html) is a suggestion for a rendering style specifically for the UK.
+* Na lista de e-mails britânica, do OSM, um [tópico](https://lists.openstreetmap.org/pipermail/talk-gb/2015-July/017627.html) sugere que se tenha estilo de renderização específico para o Reino Unido.
 
-* Omar Ureta[ visualised](https://twitter.com/theworksla/status/624735603284774912) OSM-based tiles with Stamen-Watercolour style with terrain elevation data of the regional administration.
+* Omar Ureta [experimentou](https://twitter.com/theworksla/status/624735603284774912) gerar _tiles_ baseados em OSM usando o estilo Stamen-Watercolour, com dados de elevação colhidos da administração regional.
 
 ## #switch2OSM
 
@@ -108,43 +106,43 @@ uploads//2015/07/uni_leicester.jpg)Campus with 3D Buildings [1]
 
 * The Vehrkehrsmanagementzentrale (traffic management center) of Lower Saxony published a new [website](http://www.vmz-niedersachsen.de/bundesweit/?feature=60382346-82f3-4f51-bc76-764c479e28d6). There are shown traffic jams and construction sites [all over Germany](http://www.vmz-niedersachsen.de/bundesweit/?feature=e5f6232b-5b56-4071-a199-fbeed5034b39). The map display on Tablet and Desktop uses [OSM maps](http://www.vmz-niedersachsen.de/bundesweit/?feature=db6b958b-e7d4-4426-8134-e12920f6f2cd).
 
-## Open-Data
+## Dados abertos
 
-* The Austrian Federal Office of Metrology and Surveying (Bundesamt für Eich- und Vermessungswesen, BEV Österreich) [has published](http://www.bev.gv.at/portal/page?_pageid=713,2573888&_dad=portal&_schema=PORTAL) all address details with pinpoint accuracy. Thomas Ruprecht [is in contact](http://osm-talk-at.1116557.n5.nabble.com/Talk-at-Adressdaten-BEV-td571.html) with the BEV, to allow the use of these data and the administrative boundaries for OSM.
+* O Escritório Federal de Metrologia e Topografia da Áustria [publicou](http://www.bev.gv.at/portal/page?_pageid=713,2573888&_dad=portal&_schema=PORTAL) todos os endereços em detalhe e com extrema precisão. Thomas Ruprecht [está em contato](http://osm-talk-at.1116557.n5.nabble.com/Talk-at-Adressdaten-BEV-td571.html) com o BEV, solicitando permissão para que o OpenStreetMap possa fazer uso daqueles dados e dos limites administrativos.
 
-* The Belgian Council of Ministers adopted a new [open data strategy](http://www.openknowledge.be/2015/07/24/green-light-for-the-belgian-federal-open-data-strategy/). Basically, all the records are to be published from 2020 under CC0 license.
+* O Conselho de Ministros Belga adotou uma nova [estratégia de dados abertos](http://www.openknowledge.be/2015/07/24/green-light-for-the-belgian-federal-open-data-strategy/). Basicamente, todos os registros deverão ser publicados sob licença CC0 até 2020.
 
 ## Software
 
-* As the main client of [MapDB](http://www.mapdb.org/) has withdrawn, Jan Kotek is looking [for new sponsors](https://twitter.com/JanKotek/status/617593476998385664) for the project.
+* Como o principal cliente de [MapDB](http://www.mapdb.org/) retirou-se, Jan Kotek está à procura de [novos patrocinadores](https://twitter.com/JanKotek/status/617593476998385664) para o projeto.
 
-* Michael Zangl presents the [first release](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007438.html) of its OpenGL MapView of JOSM, (part of the Google Summer of Code).
+* Michael Zangl fez o [primeiro lançamento](https://lists.openstreetmap.org/pipermail/josm-dev/2015-June/007438.html) do seu MapView alternativo para JOSM, baseado em OpenGL. É parte do Google Summer of Code.
 
-* Do you or your company want to [sponsor a new QGIS-Feature](http://nyalldawson.net/2015/07/want-to-sponsor-some-qgis-features-heres-some-ideas/)?
+* Você ou sua empresa quer [patrocinar o desenvolvimento de coisas novas](http://nyalldawson.net/2015/07/want-to-sponsor-some-qgis-features-heres-some-ideas/)  no QGIS?
 
-* Developer Dennis Nienhüser has released a new Version 1.11.3 of [Marble for Windows](http://nienhueser.de/blog/?p=610).
+* O desenvolvedor Dennis Nienhüser lançou a nova version 1.11.3 do [Marble para Windows](http://nienhueser.de/blog/?p=610).
 
-* The Geometalab of the University of Rapperswil is [working on an extract-tool](http://geometalab.tumblr.com/post/123971857152/osmaxx-openstretmap-arbitrary-excerpt-export) for OSM data for various formats: GeoPackage, Shapefile, FileGeodatabase and Garmin (.img).
+* O [Geometa Lab](https://github.com/geometalab), da Universidade de Rapperswil, na Suiça, está [trabalhando uma ferramenta de extração](http://geometalab.tumblr.com/post/123971857152/osmaxx-openstretmap-arbitrary-excerpt-export) de dados OSM para vários formatos: GeoPackage, Shapefile, FileGeodatabase e Garmin (.img).
 
-* Version 1.1.1 of the [iOS-Port of OsmAnd](https://twitter.com/osmandapp/status/620690857210060800) was released.
+* A versão 1.1.1 do [OsmAnd portado para iOS](https://twitter.com/osmandapp/status/620690857210060800) foi liberada.
 
-* The OSM-based and open source Geo Search Engine [Photon](http://wiki.openstreetmap.org/wiki/Photon) now also supports "Reverse Geocoding", i.e. output of address to a transferred X / Y coordinate.
+* O motor de pesquisa geográfica [Photon](http://wiki.openstreetmap.org/wiki/Photon), que é baseado no OSM, agora também suporta geocodificação reversa, ou seja, informar o endereço que corresponde a uma coordenada.
 
-* User Amaroussi [asks](https://twitter.com/osmblogs/status/620927635670106116) on Twitter, how to deal with the imminent end of Flash in respect of Potlatch. Luckily in the future there will still be [ID](http://wiki.openstreetmap.org/wiki/DE:ID), [Level0](http://level0.osmz.ru/), [Merkaartor](http://merkaartor.be/), [JOSM](https://josm.openstreetmap.de/), [Vespucci](http://wiki.openstreetmap.org/wiki/Vespucci) and, er, [Potlatch!](http://www.openstreetmap.org/user/Amaroussi/diary/35386#comment31278).
+* O usuário Amaroussi, referindo-se ao Potlatch, [pergunta](https://twitter.com/osmblogs/status/620927635670106116) no Twitter como lidar com o iminente fim do Flash. Por sorte, ainda nos restarão: [ID](http://wiki.openstreetmap.org/wiki/DE:ID), [Level0](http://level0.osmz.ru/), [Merkaartor](http://merkaartor.be/), [JOSM](https://josm.openstreetmap.de/), [Vespucci](http://wiki.openstreetmap.org/wiki/Vespucci) e, pasmem, [Potlatch!](http://www.openstreetmap.org/user/Amaroussi/diary/35386#comment31278).
 
-* NGA and DigitalGlobe have jointly published [Hootenanny](https://github.com/ngageoint/hootenanny). A free and open project to facilitate the handling of large amounts of spatial data. (via [un-spider](http://www.un-spider.org/news-and-events/news/hootenanny-new-software-enhance-crowdsourced-mapping))
+* NGA e DigitalGlobe publicaram em conjunto o [Hootenanny](https://github.com/ngageoint/hootenanny), um projeto gratuito e aberto que facilita o manuseio de grandes quantidades de dados espaciais. (via [un-spider](http://www.un-spider.org/news-and-events/news/hootenanny-new-software-enhance-crowdsourced-mapping))
 
-* MapBox [published](https://github.com/mapbox/protozero) a first release of a minimalist C ++ 11 protobuf de- and encoder. (via [@springmeyer](https://twitter.com/springmeyer/status/621811668176113664))
+* MapBox [publicou](https://github.com/mapbox/protozero) uma versão inicial de um codificador/decodificador minimalista de buffer de protocolo, escrito em C++. (via [@springmeyer](https://twitter.com/springmeyer/status/621811668176113664))
 
-* Mapbox [has created](https://github.com/mapbox/mapbox-sdk-js) a node.js and browser Javascript client for Mapbox services (geolocation, routing, etc.). (via [@tmcw](https://twitter.com/tmcw/status/622173910159728640))
+* MapBox [criou](https://github.com/mapbox/mapbox-sdk-js) um cliente Javascript, para node.js e navegador. São oferecidos serviços tais como geolocalização e roteamento. (via [@tmcw](https://twitter.com/tmcw/status/622173910159728640))
 
-* The backend code of the OSRM project can now be compiled under Windows as a DLL. (via [@tdihp](https://twitter.com/tdihp/status/623061816847892480))
+* O código de _backend_ do projeto OSRM pode agora ser compilado para Windows, como uma DLL. (via [@tdihp](https://twitter.com/tdihp/status/623061816847892480))
 
-* [Omniscale](http://omniscale.com/) published a tool called [Magnacarto](https://twitter.com/omniscale_de/status/623469782990458881), which can convert map styles from CartoCSS format into Mapnik XML or MapServer mapfile.
+* [Omniscale](http://omniscale.com/) publicou uma ferramenta chamada [Magnacarto](https://twitter.com/omniscale_de/status/623469782990458881), que pode converter estilos de mapa do formato CartoCSS em Mapnik XML ou em arquivo de mapa do MapServer.
 
-## Did you know ...
+## Você sabia...
 
-* ... about the 3D rendering from [F4Map](http://www.openstreetmap.org/user/shrddr/diary/35399)?
+* ...da renderização 3D do [F4Map](http://www.openstreetmap.org/user/shrddr/diary/35399)?
 
 ## Other "geo" things
 
