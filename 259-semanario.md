@@ -8,61 +8,61 @@
 
 * Também estamos felizes em anunciar que Ruben Lopez Mendoza, de Ayacucho, no Peru, está contribuindo em espanhol. Bem vindo, Ruben!
 
-## Mapping
+## Mapeamento
 
-* [OSM may continue to use Bing imagery](https://twitter.com/rbrundritt/status/616028862531530752) even after the[ takeover](http://techcrunch.com/2015/06/29/uber-acquires-part-of-bings-mapping-assets-will-absorb-around-100-microsoft-employees/#.ejebx4:A7ep) by Uber.
+* [O projeto OpenStreetMap poderá continuar usando imagens aéreas do Bing](https://twitter.com/rbrundritt/status/616028862531530752) mesmo depois da Uber [assumir o controle](http://techcrunch.com/2015/06/29/uber-acquires-part-of-bings-mapping-assets-will-absorb-around-100-microsoft-employees/#.ejebx4:A7ep).
 
-* SK53 asks on twitter [how to tag](https://twitter.com/SK53onOSM/status/618511741325082624) this new electricity tower design.
+* SK53 pergunta no Twitter [como etiquetar](https://twitter.com/SK53onOSM/status/618511741325082624) o novo estilo de torres de alta tensão que a [National Grid](http://careers.nationalgrid.com/locations/eakring/) está usando em Eakring, na Inglaterra.
 
-* Martijn van Exel [announces a Maproulette challenge](https://lists.openstreetmap.org/pipermail/talk-us/2015-July/015066.html) about missing railroad crossings in the USA.
+* Martijn van Exel [anuncia um desafio Maproulette](https://lists.openstreetmap.org/pipermail/talk-us/2015-July/015066.html) para cruzamentos ferroviários que faltam ser mapeados nos Estados Unidos.
 
-* Mapbox published the [internal OSM mapping instructions](https://github.com/mapbox/mapping/wiki) that are used by their data team.
+* A MapBox publicou o [Guia interno](https://github.com/mapbox/mapping/wiki) que é a equipe de dados dela usa para fazer mapeamento OpenStreetMap.
 
-* Yandex (a Russian search engine with a map portal) now offers a Street View service. The images (not the map and aerial photographs) [may be used for mapping](http://shtosm.ru/2011/04/22/2/). (automatic[ translation](https://translate.google.com/translate?hl=de&sl=ru&tl=en&u=http%3A%2F%2Fshtosm.ru%2F2011%2F04%2F22%2F2%2F&sandbox=1))
+* Yandex, um motor de pesquisa russo que inclui um portal de mapas, agora oferece visualização de ruas. As imagens de rua, mas não o mapa e não as fotografias aéreas, [podem ser usadas](http://shtosm.ru/2011/04/22/2/) para mapeamento. ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=ru&tl=pt&u=http%3A%2F%2Fshtosm.ru%2F2011%2F04%2F22%2F2%2F&sandbox=1))
 
-* OpenHistoricalMap [builds ](http://googlemapsmania.blogspot.de/2015/07/open-history-mapping.html)maps on its own infrastructure using OSM tools. (via [@GuerrillaCarto](https://twitter.com/GuerrillaCarto/status/622052359816941568))
+* O projeto OpenHistoricalMap [constrói](http://googlemapsmania.blogspot.de/2015/07/open-history-mapping.html) mapas do passado usando infraestrutura própria e ferramentas OSM. (via [@GuerrillaCarto](https://twitter.com/GuerrillaCarto/status/622052359816941568))
 
-* On GitHub it has been possible for some time to represent a GeoJSON file via an OSM Layer ([example](https://github.com/MaptimeSEA/geojson/blob/master/bicycle_parking_osm.geojson)). Now a link to the MapBox ["Improve this map" feature](https://www.mapbox.com/blog/improve-this-map/) has been added to help resolve (via iD or OSM Notes) any map errors.
+* Já faz algum tempo, no GitHub é possível visualizar arquivos GeoJSON em camada OpenStreetMap ([exemplo](https://github.com/MaptimeSEA/geojson/blob/master/bicycle_parking_osm.geojson)). Agora foi adicionado link para o recurso "[melhorar este mapa](https://www.mapbox.com/blog/improve-this-map/)", da MapBox. A partir dele será possível ajudar a resolver — via iD ou OSM Notes — qualquer erro no mapa.
 
-* On the [talk-fr list](https://lists.openstreetmap.org/pipermail/talk-fr/2015-July/077356.html) there has been a discussion about the border between France and Italy in the Mont Blanc area. This was followed by a discussion on the tagging list about how to map [border disputes](https://lists.openstreetmap.org/pipermail/tagging/2015-July/025676.html).
+* Lá na lista [talk-fr](https://lists.openstreetmap.org/pipermail/talk-fr/2015-July/077356.html) tem sido discutida a fronteira entre a França e a Itália, na área próxima ao [monte Branco](https://pt.wikipedia.org/wiki/Monte_Branco). A discussão inclusive originou uma outra na lista _tagging_, sobre como mapear [áreas em disputa](https://lists.openstreetmap.org/pipermail/tagging/2015-July/025676.html).
 
-* Marc Zoutendijk [explains](https://www.openstreetmap.org/user/marczoutendijk/diary/35455) how you can find strange tagged POIs with the [OpenPOIMap](http://openpoimap.org). To do this click in the top right corner of OpenPOIMap "User POIs" and use a query e.g. amenity=shop.
+* Marc Zoutendijk [explica](https://www.openstreetmap.org/user/marczoutendijk/diary/35455) como o [OpenPOIMap](http://openpoimap.org) pode ajudar a encontrar POIs com etiquetação estranha. Por exemplo, no canto superior direito do OpenPOIMap, usa-se o quadro "User POIs" para dar início a pesquisa por objetos que estejam marcados com `amenity=shop`.
 
-* In a twelve-part series, Tlatet [analysed](http://tlatet.blogspot.be/2015/07/osm-retail-survey-part-1.html) the quality of POIs in OSM (specifically retail in England).
+* Em uma série de doze partes, Tlatet [analisou](http://tlatet.blogspot.be/2015/07/osm-retail-survey-part-1.html) a qualidade de POIs no OpenStreetMap, especificamente de comércio na Inglaterra.
 
-* Andreas Weber and Dennis Nienhüser (FZI Karlsruhe) have created a system for use with a Segway that recognises traffic signs so that they can be uploaded it to OSM ([Video)](http://www.dailymotion.com/video/x2zbipu).
+* Andreas Weber e Dennis Nienhüser, do [FZI](https://en.wikipedia.org/wiki/Forschungszentrum_Informatik), um centro independente e sem fins lucrativos, de pesquisa para tecnologia da informação, criaram um sistema para usar em [Segway PT](https://pt.wikipedia.org/wiki/Segway) que reconhece sinalização de trânsito e a envia ao OSM, possibilitando um mapeamento semi-automático ([vídeo](http://www.dailymotion.com/video/x2zbipu)).
 
-## Community
+## Comunidade
 
-* User escada is the[ belgian mapper of the month](https://www.openstreetmap.org/user/escada/diary/35332) of July.
+* O usuário escada é o [mapeador belga do mês](https://www.openstreetmap.org/user/escada/diary/35332) de Julho.
 
-* Chris Rodier introduces its new [treelike visualization](http://threefiftythree.com/openstreetmap-a-collapsible-tree-visualisation-aka-v3/) of the OSM World. (via [Twitter](https://twitter.com/leponot/status/617782933760442368))
+* Chris Rodier introduz sua [visualização em árvore](http://threefiftythree.com/openstreetmap-a-collapsible-tree-visualisation-aka-v3/) do mundo OSM. (via [Twitter](https://twitter.com/leponot/status/617782933760442368))
 
-* edward17 reported by the [Ukrainian weekly task no. 18](https://www.openstreetmap.org/user/edward17/diary/35394) (building mapping with the HOT-Task Manager) (automatic [translation](https://translate.google.com/translate?hl=de&sl=ru&tl=en&u=https%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Fedward17%2Fdiary%2F35435))
+* edward17 fez relato sobre a [tarefa ucraniana semanal n. 18](https://www.openstreetmap.org/user/edward17/diary/35394): mapeamento de edificações usando o Task Manager do HOT. ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=ru&tl=pt-BR&u=https%3A%2F%2Fwww.openstreetmap.org%2Fuser%2Fedward17%2Fdiary%2F35435))
 
-* [Alex](http://hdyc.neis-one.org/?rurseekatze) and [Michael](http://hdyc.neis-one.org/?Nakaner) (two students) are spending their holidays traveling across East Germany [to map the railway infrastructure there](http://blog.openrailwaymap.org/?lang=de#27) (automatic [translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.openrailwaymap.org%2F%3Flang%3Dde%2327&edit-text=)). See [the aims of their project](https://umap.openstreetmap.fr/de/map/reiseplane-deutschlandpass-2015_46757#8/51.667/13.870).
+* [Alex](http://hdyc.neis-one.org/?rurseekatze) e [Michael](http://hdyc.neis-one.org/?Nakaner), dois estudantes, estão consumindo suas férias em viagem pela Alemanha Oriental, para mapear a infraestrutura ferroviária de lá ([tradução automática](https://translate.google.com/translate?hl=pt-BR&sl=auto&tl=pt&u=http%3A%2F%2Fblog.openrailwaymap.org%2F%3Flang%3Dde&sandbox=1)). Veja [por onde querem passar](https://umap.openstreetmap.fr/de/map/reiseplane-deutschlandpass-2015_46757#8/51.667/13.870).
 
-* Esri's on the "vector tile" bandwagon too - they've presented their [Vector Basemap](http://blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview/) at the Esri International User Conference, that follows the open Vector Tile Specification.
+* Esri também entrou na onda dos _tiles_ em vetor. Eles apresentaram o [Vector Basemap](http://blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview/) na Conferência Internacional de Usuários Esri. O produto segue a _Vector Tile Specification_, que é aberta.
 
-* After some [criticism](https://www.openstreetmap.org/user/lxbarth/diary/21847#comment26563) last year, Mapbox improved the default attribution on their customer maps. Harry Wood asks if there's been any further progress. (via. [Twitter](https://twitter.com/harry_wood/status/623777445527879680))
+* Após as [críticas](https://www.openstreetmap.org/user/lxbarth/diary/21847#comment26563) do último ano, a MapBox melhorou a forma padrão de fazer atribuição nos mapas de seus clientes. Mas Harry Wood questiona o que de fato melhorou. (via [Twitter](https://twitter.com/harry_wood/status/623777445527879680))
 
-* Jochen Topf [writes](http://blog.jochentopf.com/2015-07-22-node-location-anomaly.html) about abnormalities in the decimal places of coordinates of new OSM objects.
+* Jochen Topf [escreve](http://blog.jochentopf.com/2015-07-22-node-location-anomaly.html) sobre anormalidades nas casas decimais de coordenadas de novos objetos OSM.
 
-* Mapillary discusses how their traffic sign recognition is based on a [trainable algorithm](http://blog.mapillary.com/update/2015/07/23/traffic-sign-feedback-matters.html) and user feedback (to label a road sign as right or wrong), which improves the classification accuracy.
+* O blog da Mapillary mostra como o reconhecimento de sinalização de trânsito deles baseia-se num [algoritmo de aprendizagem](http://blog.mapillary.com/update/2015/07/23/traffic-sign-feedback-matters.html) e no _feedback_ humano. O usuário marca a sinalização como correta ou errada, e isso aperfeiçoa a precisão da classificação.
 
-* Three [Step-by-Step-Guides](http://canadiangis.com/openstreetmap-step-by-step-user-guides.php) help to access the OSM World.
+* Três [Guias Passo-a-Passo](http://canadiangis.com/openstreetmap-step-by-step-user-guides.php) (em inglês) ajudam a introduzir o mundo do OpenStreetMap.
 
-* The mapper's "uniform" is now available [in Portuguese as well](https://www.openstreetmap.org/user/leodobrasil/diary/35442).
+* O "uniforme do mapeador" agora também está [disponível em português](https://www.openstreetmap.org/user/leodobrasil/diary/35442).
 
-* That's pure [coincidence](https://twitter.com/OSMBuildings/status/624171242195652609). ;-)
+* É só [coincidência](https://twitter.com/OSMBuildings/status/624171242195652609). ;-)
 
-## Imports
+## Importações
 
-* Stephen Dawkins [suggests importing bus stops in some areas](https://lists.openstreetmap.org/pipermail/imports/2015-July/003968.html) from the latest [NAPTAN](https://en.wikipedia.org/wiki/NaPTAN) dataset.
+* Stephen Dawkins [sugere](https://lists.openstreetmap.org/pipermail/imports/2015-July/003968.html) que se importe pontos de ônibus, em algumas áreas, a partir do banco de dados [NaPTAN](https://en.wikipedia.org/wiki/NaPTAN), no Reino Unido.
 
-* In Austria people are [discussing whether to import](https://lists.openstreetmap.org/pipermail/talk-at/2015-July/007798.html) the tree register of the [city of Linz ](http://www.openstreetmap.org/node/25181326#map=16/48.3050/14.2875)into OpenStreetMap.
+* Na Áustria, pessoas estão [discutindo se importam](https://lists.openstreetmap.org/pipermail/talk-at/2015-July/007798.html) o registro de árvores da cidade de [Linz](http://www.openstreetmap.org/node/25181326#map=16/48.3050/14.2875).
 
-* The [import of trees](https://lists.openstreetmap.org/pipermail/talk-fr/2015-July/077419.html) in the area of the [city of Nice](http://www.openstreetmap.org/#map=14/43.7048/7.2657) is also considered by the French OSM mailing list.
+* A [importação de árvores](https://lists.openstreetmap.org/pipermail/talk-fr/2015-July/077419.html) na área da cidade de [Nice](http://www.openstreetmap.org/#map=14/43.7048/7.2657) está sendo avaliada pela lista de e-mails francesa.
 
 ## OpenStreetMap Foundation
 
