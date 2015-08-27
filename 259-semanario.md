@@ -64,19 +64,19 @@
 
 * A [importação de árvores](https://lists.openstreetmap.org/pipermail/talk-fr/2015-July/077419.html) na área da cidade de [Nice](http://www.openstreetmap.org/#map=14/43.7048/7.2657) está sendo avaliada pela lista de e-mails francesa.
 
-## OpenStreetMap Foundation
+## Fundação OpenStreetMap
 
-* The [draft minutes](http://wiki.osmfoundation.org/wiki/Board/Minutes/2015-06-15) of OSMF´s board meeting as of 2015-06-15 is now available in the OSMF-Wiki.
+* Uma [prévia](http://wiki.osmfoundation.org/wiki/Board/Minutes/2015-06-15) de reunião do Conselho está no OSMF-Wiki, para 15 de junho.
 
-* On July 20 the first public [OSMF board meeting ](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-July/003350.html)was held. The minutes and an audio recording of the meeting will follow soon.
+* A [primeira reunião](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-July/003350.html) foi realizada em 20 de julho. A ata e uma gravação do áudio serão publicados em breve.
 
-## Humanitarian OSM
+## OSM Humanitário
 
-* HOT would like to [publish a quarterly newsletter](https://lists.openstreetmap.org/pipermail/hot/2015-July/009659.html) to improve the communication within the project and is looking for help.
+* Quer-se que o HOT publique um [boletim informativo trimestral](https://lists.openstreetmap.org/pipermail/hot/2015-July/009659.html), para melhora da da comunicação interna. Precisam de ajuda.
 
-* A request for ["OSM Damage Assessment"](https://lists.openstreetmap.org/pipermail/hot/2015-July/009653.html) shows that a lot of the OSM universe is still uncharted territory for researchers. ;-)
+* Uma demanda por [avaliação de danos no OSM](https://lists.openstreetmap.org/pipermail/hot/2015-July/009653.html) mostra que muito do universo OpenStreetMap ainda é território desconhecido mesmo para pesquisadores ;-)
 
-* A new [microtasking platform](http://crowdmap.geog.uni-heidelberg.de/app/missing_maps_follow_up/) has emerged at the University of Heidelberg. Currently human settlements and roads in [South Kivu](http://www.openstreetmap.org/relation/193100#map=4/0.44/29.00) in the DRC are being checked for the [Missing Maps Project](http://wiki.openstreetmap.org/wiki/Missing_Maps_Project).
+* Uma nova [plataforma de microtarefas de mapeamento](http://crowdmap.geog.uni-heidelberg.de/app/missing_maps_follow_up/) emergiu da Universidade de Heidelberg, na Alemanha. Assentamentos humanos e estradas de [Kivu do Sul](http://www.openstreetmap.org/relation/193100#map=4/0.44/29.00), na República Democrática do Congo, são verificadas através do projeto [Missing Maps](http://wiki.openstreetmap.org/wiki/Missing_Maps_Project).
 
 ## Mapas
 
@@ -100,11 +100,11 @@
 
 ## #switch2OSM
 
-* The German Eisenbahn-Bundesamt (Federal Railway Authority) uses[ OpenStreetMap as a background map](https://www.laermaktionsplanung-schiene.de/ecm-politik/lapeba/de/mapconssurvey/47035) for a citizen participation.
+* _Eisenbahn-Bundesamt_ (EBA), a autoridade ferroviária federal alemã,  [usa OpenStreetMap](https://www.laermaktionsplanung-schiene.de/ecm-politik/lapeba/de/mapconssurvey/47035) para incentivar participação cidadã.
 
-* Facebook uses OpenStreetMap data in some places. The data in some places switch with other data sources, so that there are some [false error messages](https://lists.openstreetmap.org/pipermail/talk/2015-July/073516.html). via [@penorman](https://twitter.com/penorman/status/621962017037905921))
+* Dados do OpenStreetMap também são usados pelo Facebook, para alguns lugares. Em alguns casos, permutando com outras fontes de dados; e isso provoca algumas [falsas mensagens de erro](https://lists.openstreetmap.org/pipermail/talk/2015-July/073516.html). (via [@penorman](https://twitter.com/penorman/status/621962017037905921))
 
-* The Vehrkehrsmanagementzentrale (traffic management center) of Lower Saxony published a new [website](http://www.vmz-niedersachsen.de/bundesweit/?feature=60382346-82f3-4f51-bc76-764c479e28d6). There are shown traffic jams and construction sites [all over Germany](http://www.vmz-niedersachsen.de/bundesweit/?feature=e5f6232b-5b56-4071-a199-fbeed5034b39). The map display on Tablet and Desktop uses [OSM maps](http://www.vmz-niedersachsen.de/bundesweit/?feature=db6b958b-e7d4-4426-8134-e12920f6f2cd).
+* _Vehrkehrsmanagementzentrale_ (VMZ), o centro de gerenciamento de tráfego alemão, na Baixa Saxônia, colocou no ar um novo [website](http://www.vmz-niedersachsen.de/bundesweit/?feature=60382346-82f3-4f51-bc76-764c479e28d6). Ele mostra engarrafamentos e trechos em obra, de [toda a alemanha](http://www.vmz-niedersachsen.de/bundesweit/?feature=e5f6232b-5b56-4071-a199-fbeed5034b39). O mapa, que pode ser visualizado tanto no _desktop_ como no _tablet_, é [OpenStreetMap](http://www.vmz-niedersachsen.de/bundesweit/?feature=db6b958b-e7d4-4426-8134-e12920f6f2cd).
 
 ## Dados abertos
 
@@ -144,45 +144,45 @@
 
 * ...da renderização 3D do [F4Map](http://www.openstreetmap.org/user/shrddr/diary/35399)?
 
-## Other "geo" things
+## Outras coisas "geo"
 
-* Marina Schwab and Daria Kern of Aalen University [compare OSM API with the Google Maps API](http://image.informatik.htw-aalen.de/~thierauf/Seminar/Ausarbeitungen-15SS/API.pdf) (German PDF) - apparently OSM scores well with younger audiences.
+* Marina Schwab e Daria Kern, da Universidade Aalen, [comparam a API do OSM com a API do Google Mapas](http://image.informatik.htw-aalen.de/~thierauf/Seminar/Ausarbeitungen-15SS/API.pdf) (PDF em alemão). Aparentemente, o OSM pontua bem, para um público mais jovem.
 
-* With [Deep Dream](https://deepdream.in/) one can visualise neural networks. This also [works with maps](http://www.openstreetmap.org/user/chippy/diary/35329).
+* Com o [Deep Dream](https://deepdream.in/) a pessoa pode visualizar redes neurais. E isso também [funciona com mapas](http://www.openstreetmap.org/user/chippy/diary/35329)...
 
-* MaptimeBER (Berlin) now has 500 "Map Lovers". Congratulations. (via [@MaptimeBER](https://twitter.com/MaptimeBER/status/616620640011964416))
+* O MaptimeBER, em Berlim, agora conta com 500 "amantes do mapa". Parabéns! (via [@MaptimeBER](https://twitter.com/MaptimeBER/status/616620640011964416))
 
-* The University of Kentucky has [some Videos on the theme of "maps"](https://vimeo.com/newmapsplus).
+* A Universidade de Kentucky tem [alguns vídeos abordando o assunto "mapas"](https://vimeo.com/newmapsplus).
 
-* Google has introduced a [new (open) hardware system](https://developers.google.com/beacons/?hl=en) that can be used for indoor navigation.
+* Google deu início a um novo [sistema de hardware aberto](https://developers.google.com/beacons/?hl=en), o Beacons, que pode ser usado para navegação em ambientes internos.
 
-* Why is Uber [buying](http://thenextweb.com/insider/2015/07/15/why-uber-is-buying-map-companies/) map companies?
+* Por que a Uber está [comprando](http://thenextweb.com/insider/2015/07/15/why-uber-is-buying-map-companies/) empresas de mapa?
 
-* FixWikiMaps and Nacis [announce the MapLift](http://nacis.org/maplift/) event. During the week from August 28 until September 04 maps are to be improved in Wikipedia.
+* FixWikiMaps e Nacis anunciam o evento [MapLift](http://nacis.org/maplift/). Durante a semana de 28 de agosto a 4 de setembro mapas para artigos da Wikipédia serão melhorados.
 
-* FATMAP [presented](http://www.fatmap.com/) detailed 3D maps for skiers. (via [@mprioleau](https://twitter.com/mprioleau/status/622274189282508800))
+* FATMAP [apresentou](http://www.fatmap.com/) mapas 3D detalhados para esquiadores. (via [@mprioleau](https://twitter.com/mprioleau/status/622274189282508800))
 
-* Garmin [offers](http://360.here.com/2015/07/13/hassle-free-caravanning-with-the-garmin-camper-660lmt-d/) a GPS specifically designed for the needs of caravan drivers.
+* Garmin [oferece](http://360.here.com/2015/07/13/hassle-free-caravanning-with-the-garmin-camper-660lmt-d/) um GPS especialmente projetado para condutores de caravanas.
 
-* HERE now [offers](http://360.here.com/2015/07/20/here-introduces-hd-maps-for-highly-automated-vehicle-testing/) highly accurate map data for autonomous driving. (via [@here](https://twitter.com/here/status/623189881804591104))
+* HERE agora tem condições de [fornecer](http://360.here.com/2015/07/20/here-introduces-hd-maps-for-highly-automated-vehicle-testing/) dados de mapa altamente precisos que são próprios para condução autônoma. (via [@here](https://twitter.com/here/status/623189881804591104))
 
-* Riccardo [compares](http://www.digital-geography.com/create-maps-online-a-comparison-webmap-providers/) 6 ways to create online maps.
+* O blogueiro geógrafo e matemático Riccardo [compara](http://www.digital-geography.com/create-maps-online-a-comparison-webmap-providers/) 6 maneiras de criar mapas online.
 
-* Nokia sells HERE maps to [Audi, Daimler and BMW](http://www.theregister.co.uk/2015/08/03/nokia_sells_here_maps_to_audi_daimler_and_bmw_for_28_billion/) for €2.8 billion.
+* Nokia vende o HERE maps para [Audi, Daimler e BMW](http://www.theregister.co.uk/2015/08/03/nokia_sells_here_maps_to_audi_daimler_and_bmw_for_28_billion/), por 2.8 bilhões de euros.
 
-* MapBox has supplemented its Landsat Live pipeline by an [automatic atmospheric correction](https://www.mapbox.com/blog/l8-atmospheric-correction/) to obtain clearer and more vibrant images.
+* A MapBox tem desenvolvido uma "[correção automática de atmosfera](https://www.mapbox.com/blog/l8-atmospheric-correction/)" para obter imagens mais nítidas e vibrantes do Landsat Live, que é dela.
 
-* Wired [reports](http://www.wired.com/2015/07/secret-cold-war-maps/) on Russian maps during the Cold War. (via [osmf-talk](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-July/003357.html))
+* Wired fez uma [matéria](http://www.wired.com/2015/07/secret-cold-war-maps/) sobre mapas que os russos fizeram durante a Guerra Fria. (via [osmf-talk](https://lists.openstreetmap.org/pipermail/osmf-talk/2015-July/003357.html))
 
-* [Osmocoder](https://translate.google.com/translate?sl=de&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3Ahttp%3A%2F%2Fwww.osmocoder.de%2F&edit-text=) is a newly developed [geocoding service](http://forum.openstreetmap.org/viewtopic.php?id=32005) by the company 123map.
+* [Osmocoder](https://translate.google.com/translate?sl=de&tl=pt&js=y&prev=_t&hl=pt-BR&ie=UTF-8&u=http%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3Ahttp%3A%2F%2Fwww.osmocoder.de%2F&edit-text=) é um [serviço de geocodificação](http://forum.openstreetmap.org/viewtopic.php?id=32005) recentemente desenvolvido pela empresa 123map.
 
-* The geocoding module from MapBox now supports [auto completion](https://www.mapbox.com/blog/geocoding-type-ahead/) of town or street names as you type in the search box.
+* O módulo de geocodificação do MapBox agora [auto completa](https://www.mapbox.com/blog/geocoding-type-ahead/) nomes de cidades e ruas à medida que você os digita na caixa de pesquisa.
 
-* MapBox has opened a [development office](https://www.mapbox.com/blog/good-morning-berlin/) in Berlin, Germany. The focus of the Berlin employees will be working on [OSRM](http://map.project-osrm.org/?hl=de&loc=-13.160732,-74.226883&loc=-13.634200,-72.875725&z=13&center=-13.647738,-72.986298&alt=0&df=0&re=0&ly=-1171809665).
+* MapBox abriu um [escritório de desenvolvimento](https://www.mapbox.com/blog/good-morning-berlin/) em Berlim. O foco lá será trabalhar no [OSRM](http://map.project-osrm.org/?hl=de&loc=-13.160732,-74.226883&loc=-13.634200,-72.875725&z=13&center=-13.647738,-72.986298&alt=0&df=0&re=0&ly=-1171809665).
 
-* China expanded its own navigation system "Beidou-2" [by 2 more satellites](http://www.spiegel.de/wissenschaft/weltall/beidou-china-schiesst-zwei-weitere-navi-satelliten-ins-all-a-1045481.html).
+* O sistema de navegação chinês Beidou-2 recebeu [mais dois satélites](http://www.spiegel.de/wissenschaft/weltall/beidou-china-schiesst-zwei-weitere-navi-satelliten-ins-all-a-1045481.html).
 
-* The official US government FAQ about ... GPS :) is super interesting (via [@konklone](https://twitter.com/konklone/status/625423539135512576))
+* As FAQs oficiais dos Estados Unidos da América, sobre GPS :) são super-interessantes (via [@konklone](https://twitter.com/konklone/status/625423539135512576))
 
-* Active Wikipedians from Sweden have built an [all-round camera](https://twitter.com/WikimediaSE/status/625668197539311616) of four mobile phones, in particular for recordings for uploading to [Mapillary](http://www.mapillary.com).
+* Wikipedistas suecos ativos construiram um [tripé 360°](https://twitter.com/WikimediaSE/status/625668197539311616) para quatro smartphones, especialmente projetado com o intuito de submeter as imagens registradas ao [Mapillary](http://www.mapillary.com).
 
