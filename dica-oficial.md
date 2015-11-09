@@ -46,16 +46,32 @@ Quando uma mensagem é bastante complexa, divida-a em duas porções, invés de 
 Assim como os parênteses, é sempre colado na palavra.
 
 ## Seções do documento
+→ ou: _a "categoria do artigo" no sistema [OSMBC](https://thefive.sabic.uberspace.de/osmbc.html)_
 
-**Notícias**
+**Sem categoria**
 
-Esta categoria não tem que aparecer em cada edição. É reservada a eventos significativos ou mensagens importantes: eleições da OSMF, atas de reuniões importantes, etc.
+Coisas que não se encaixam em qualquer outra categoria. Ou, no OSMBC, artigos que ainda não tenham sido categorizados.
+
+Observe que o ideal é todos os artigos estarem cuidadosamente categorizados quando da publicação do semanário — o "blog" exportado em HTML do sistema de tradução colaborativa, após revisado (_review_) e encerrado (_close_).
+
+**Notícias** / nos termos em inglês: **_Current_** / em português ao pé da letra: **_Atual_**
+
+Esta categoria não tem que aparecer em cada edição. É reservada a eventos significativos ou mensagens mais importantes: eleições da OSMF, atas de reuniões importantes, etc.
+
+Exemplos:
+
+- Quando há eleições na [OSMF](https://wiki.osmfoundation.org/wiki/Main_Page), são feitos muitos relatos sobre o assunto
+- Após um [SotM-EU](http://sotm-eu.org/) blogueiros postam muito
+
+É quando se tem várias comunicações sobre um mesmo assunto em destaque.
 
 **Sobre nós**
 
-É o menos importante.
+É o menos importante. São coisas ditas por nós e sobre nós mesmos. É bastante raro esta seção aparecer, mas quando ela está presente geralmente é no topo do documento.
 
-**Manchete da semana**
+**Chamada da semana**
+
+É a manchete, geralmente vem como descrição de imagem. É costume usar uma única imagem, no topo do documento, e sempre representativa da manchete.
 
 **Mapeamento**
 
@@ -67,48 +83,61 @@ Esta categoria não tem que aparecer em cada edição. É reservada a eventos si
 
 **Comunidade**
 
-Mensagens da comunidade que não se encaixam em qualquer das outras categorias.
+Mensagens e novidades da comunidade que não se encaixam em outra categoria.
 
 **Importações**
 
+- Acompanhamento de progresso
+- Declarações de intenção
+- Lançamentos de projetos
+- Discussões sobre importações
+
 **Fundação OpenStreetMap**
 
-Sobre a OSMF ou clubes OSM locais.
+Comunicações ou notícias sobre a OSMF e clubes OSM locais. O conteúdo pode ter origem nessas próprias entidades ou em abordagens feitas por terceiros.
 
 **Eventos**
 
 - Anúncios
-- Matérias ou relatos
+- Matérias de jornal
+- Relatos de participantes
 
 **OSM Humanitário**
 
-Relativo ao HOT e ao MissingMaps.
+Tudo que for relativo ao HOT e ao MissingMaps.
 
 **Renderização**
 
-- osm.org e osm.de
-- Especiais com a base OSM
-- osm.org ou MapBox
+- Sobre mudanças nos serviços osm.org e osm.de
+- Sobre mapas especiais que sejam baseados no OSM
+
+Observação: para coisas relacionadas às mudanças de agosto de 2015, por favor referir-se a "_tiles_ do osm.org" ou aos trabalhos da Mapbox.
+
+<!-- TODO (note above): Nicht für irgendwelche 08/15-Karten, die osm.org-Tiles oder Mapbox nutzen! -->
 
 **switch2OSM**
 
-...
+O site do serviço OpenStreetMap é conhecido e goza de um alto tráfego. Usa um estilo especial de mapa, que é "novo" (diferente) e bom. Mais do que apenas disponibilizar mapas embutíveis, que podem ser usados por qualquer um, o projeto mantém e disponibiliza uma grande base de dados geoespaciais que pode ser utilizada para fins comerciais; por escritórios de topografia, para publicação de catálogos de telefone, por agências ambientais, entre vários outros tipos de negócio. Não trata-se apenas de provimento de _tiles_ e alguns poucos marcadores de local. Por exemplo, processamento de rotas de transporte público pode ser realizado inteiramente com dados do OSM e operações [GIS](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica). Esta categoria dedica-se a referenciar esse tipo de coisa, reunir todo o conhecimento correlato que possibilita tais usos do OSM.
 
 **Dados Abertos**
 
+Tudo que se relacione a abertura de dados e não possa encaixar-se com mais especificidade em outra seção do documento.
+
 **Licenças**
 
-Temas jurídicos.
+Temas jurídicos. Discussões ou ensinos sobre usufruto ou aplicação de licenças de software ou dados.
 
 **Software**
 
-Aplicações para não-programadores, excetuando editores de mapa.
+Aplicações para não-programadores, exceto software para edição de mapas.
 
 **Programação**
 
 Sobre desenvolvimento de software.
 
 **Você sabia...**
+
+Seção de curiosidades. Muitas mais funcionam como "dicas rápidas".
 
 **Outras coisas "geo"**
 
